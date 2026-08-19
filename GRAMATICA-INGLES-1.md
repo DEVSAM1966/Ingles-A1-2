@@ -73,16 +73,22 @@ kompiúters)
 - DAY  - DAYS  →  Día  - días.  →  (déi  -  déis)
 - BOY  -  BOYS  →  Niño  - niños.   →  (bói  -  bóis)
 
-### Excepciones en el plural
-- Palabras terminadas en consonante + Y  → En el plural  Y  se sustituye por:  I + ES.
+### 🧩 Excepciones en el plural
+
+#### 🔹 Palabras terminadas en consonante + Y  
+En el plural **Y** se sustituye por **I + ES**.
+
 | Inglés | Pronunciación | Castellano |
 |---------|----------------|-------------|
 | PARTY - PARTIES | párti - pártis | Fiesta - Fiestas |
 | CITY - CITIES | síti - sítis | Ciudad - Ciudades |
 | COUNTRY - COUNTRIES | kántri - kántris | País - Países |
 
+---
 
-- Palabras terminadas en -SS,  -S,  -SH,  -CH,  -X,  -O  → En el plural se añade  -ES.
+#### 🔹 Palabras terminadas en -SS, -S, -SH, -CH, -X, -O  
+En el plural se añade **-ES**.
+
 | Inglés | Pronunciación | Castellano |
 |---------|----------------|-------------|
 | CHURCH - CHURCHES | chérch - chérchis | Iglesia - Iglesias |
@@ -90,8 +96,11 @@ kompiúters)
 | GLASS - GLASSES | glás - glásis | Vaso - Vasos |
 | TOMATO - TOMATOES | toméitou - toméitous | Tomate - Tomates |
 
+---
 
-- Algunas palabras que terminan en  -F,  -FE  →  En el plural se elimina estas palabras ( -F, -FE) y se sustituye por  -VES.
+#### 🔹 Palabras que terminan en -F o -FE  
+En el plural se elimina **-F / -FE** y se sustituye por **-VES**.
+
 | Inglés | Pronunciación | Castellano |
 |---------|----------------|-------------|
 | LIFE - LIVES | láif - láivs | Vida - Vidas |
