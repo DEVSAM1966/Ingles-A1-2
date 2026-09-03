@@ -6,17 +6,18 @@
 THE → Se usa para singular / plural, masculino / femenino.
 En castellano es: el, la, los, las.
 
-Pronunciación → The + consonante:  ZE (z española) pero me suena como DE
-- the car → ze kar
-- the book → ze buk
-- the dog → ze dog
+Pronunciación → The + consonante:  DA
+- the car → da kar
+- the book → da buk
+- the dog → da dog
 
-Pronunciación → The + vocal:  Zi (i es clara) pero me suena como DI
-- the apple → zi ápol
-- the end → zi end
-- the umbrella → zi ambréla
-- No lleva “the” en colores y comidas.
-- Para cosas especificas o mencionadas antes se usara el “the”.
+Pronunciación → The + vocal:  DI
+- the apple → di ápol
+- the end → di end
+- the umbrella → di ambréla
+
+No lleva “the” en colores y comidas.
+Para cosas especificas o mencionadas antes se usara el “the”.
 
 ### A/AN (artículos indefinidos)
 A / AN → Se usara “a” si la siguiente palabra es empieza por consonante.
@@ -150,3 +151,217 @@ Hace referencia al momento que ocurre la acción.
 Para preguntar el momento
 - When is your birthday? → ¿Cuándo es tu cumpleños? (wen is yór bézdei)
 - When does it start? → ¿Cuándo empieza? (wen das it start)
+
+## Preposiciones y más interrogativos
+
+### WHERE → DONDE
+**WHERE → DONDE / EN QUÉ LUGAR / A DONDE** (wer – suena como uer)
+Se usa para preguntar ubicación, lugar, dirección o posición.
+
+Ejemplos:
+- Where is the station? → ¿Dónde está la estación? (wer is da esteishon)
+- Where do you live? → ¿Dónde vives? (wer du yú liv)
+- Where are we going? → ¿A dónde vamos? (wer ar wui góuin)
+- Where are you? → ¿Dónde estás? (wer ar yú)
+
+### WHICH → CUÁL / QUÉ
+**WHICH → CUÁL / QUÉ** (wich – suena como uich)
+Se usa cuando hay opciones concretas y quieres saber cuál de ellas.
+
+Nota importante:
+- WHAT es general; WHICH es específico.
+
+Ejemplos:
+- Which color do you prefer? → ¿Qué color prefieres? (wich cólor du yú prifér)
+- Which is better? → ¿Cuál es mejor? (wich is béter)
+- Which book is yours? → ¿Cuál libro es tuyo? (wich buk is yórs)
+- Which one do you want? → ¿Cuál quieres? (wich uan du yú uant)
+
+### WHOM → A QUIÉN / A QUIÉNES
+**WHOM → A QUIÉN / A QUIÉNES** (jum)
+Se usa cuando la persona es objeto de la acción, no el sujeto.
+
+Nota actual:
+- En inglés actual no es usado WHOM en las conversaciones, es sustituido por WHO, pero aparece en lenguaje formal, documentos oficiales, entrevistas, preguntas educadas.
+
+Ejemplos:
+- Whom did you see? → ¿A quién viste? (jum did yú sí)
+- Whom are you talking to? → ¿Con quién estás hablando? (jum ar yú tókin tu)
+- Whom should I ask? → ¿A quién debería preguntar? (jum shud ai ask)
+- To whom it may concern → A quien corresponda (tu jum it mei consérn)
+
+### WHO → QUIÉN / QUIENES
+**WHO → QUIÉN / QUIENES** (húu)
+Se utiliza exclusivamente para preguntar por personas - ya sea una persona o varias.
+
+Su función es interrogativa y siempre va al inicio de la pregunta.
+
+Si se refiere a varias personas o personas en plural se traduce como "QUIENES":
+- Who are they? – ¿Quiénes son ellos? (húu ar déi)
+- Who were the winners? – ¿Quiénes fueron los ganadores? (húu uér da wí-ners)
+- Who helped you? – ¿Quiénes te ayudaron? (húu jélpt yú)
+
+### WHOSE → DE QUIEN / DE QUIENES
+**WHOSE → DE QUIEN / DE QUIENES** (jús)
+Se usa para preguntar posesión: algo que pertenece a alguien → de quién
+
+Es el equivalente a:
+- Who = quién
+
+Ejemplos estándar:
+- Whose book is this? → ¿De quién es este libro? (jús buk is dis)
+- Whose are these shoes? → ¿De quiénes son estos zapatos? (jús ar dees suz)
+- Whose car is that?  →  ¿De quién es este coche? (jús car is dar)
+- Whose idea was it?  →  ¿De quién fue la idea? (jús aídia uos it)
+
+### WHY → POR QUÉ / CUÁL ES EL MOTIVO
+**WHY → POR QUÉ / POR QUÉ RAZÓN / CUÁL ES EL MOTIVO** (uai)
+Se usa para preguntar motivo, causa, razón o justificación.
+
+Se usa para preguntar las diferencias de uso con otros pronombres.
+
+**WHAT FOR = ¿para qué?**
+**WHY = ¿por qué?**
+
+Ejemplos:
+- Why are you here? → ¿Por qué estás aquí? (uai ar yú jiar)
+- Why did you do that? → ¿Por qué hiciste eso? (uai did yú du dat)
+- Why is it so expensive? → ¿Por qué es tan caro? (uai is it so expénsiv)
+- Why are they laughing? → ¿Por qué se están riendo? (uai ar dei láfin)
+
+### HOW → CÓMO / DE QUÉ MANERA
+**HOW → CÓMO / DE QUÉ MANERA / DE QUÉ FORMA** (jau)
+Se usa para preguntar procedimiento, forma, manera, estado, cantidad o nivel.
+
+Muy flexible: sirve para preguntar cómo, pero también cuándo cuando se combina con otras palabras (how much, how many, how long…).
+
+Ejemplos:
+- How are you? → ¿Cómo estás? (jau ar yú)
+- How does it work? → ¿Cómo funciona? (jau das it uork)
+- How long is it? → ¿Cuánto mide? / ¿Cuánto dura? (jau long is it)
+- How much is it? → ¿Cuánto cuesta? (jau mach is it)
+- How do you know? → ¿Cómo lo sabes? (jau du yú nóu)
+
+**Ahora introducimos una lista de pronombres interrogativos que combina HOW con otra palabra.**
+- HOW FOR → A QUÉ DISTANCIA (jau far)
+- HOW LONG → CUÁNTO TIEMPO / CUÁNTO MIDE (jau long)
+- HOW MANY → CUÁNTOS (jau méni)
+- HOW MUCH → CUÁNTO (jau mach)
+- HOW OLD → CUÁNTOS AÑOS (jau óld)
+- HOW OFTEN → CON QUE FRECUENCIA (jau ófen)
+- HOW SOON → CUÁN PRONTO (jau súun)
+- HOW COME → PORQUÉ (jau com)
+
+### Otros pronombres (indefinidos)
+Los pronombres indefinidos no se refieren a una persona, lugar o cosa específicos. En inglés existe un grupo específico de pronombres indefinidos formados por cuantificadores o distributivos, precedido por ANY, SOME, EVERY, NO y demás pronombres indefinidos.
+
+**ANY → "cualquier / algún / ningún (según contexto)" → (éni)**
+Usado en preguntas y negativas.
+
+**SOME → "alguno / algunos / un poco de" → (som)**
+Se usa en afirmativas y ofertas.
+
+**EVERY → "cada / todos" → (évri)**
+Indica totalidad.
+
+**NO → "ningún / nada / no hay" → (nou)**
+Niega completamente.
+
+**EVERYONE / EVERYBODY → "todos" / "todas las personas" → (évri-uon / évri-bodi)**
+EVERONE suena un poco más formal, pero en la práctica se usan igual.
+
+**EVERYWHERE → "en todas partes" / "por todas partes" / "dondequiera" → (évri-wer)**
+Indica que algo ocurre en todos los lugares, sin excepción.
+
+**EVERYTHING → "todo" / "todas las cosas" → (évri-zin)**
+Se refiere a la totalidad de cosas, no personas.
+Es el equivalente de **EVERYTHING = todo**.
+
+**SOMEONE / SOMEBODY → "Alguien" / "una persona" → (som-uon / som-bodi)**
+SOMEONE y SOMEBODY son **intercambiables**.
+En inglés moderno, SOMEONE suena un poco más formal, pero en la práctica se usan igual.
+
+**SOMEWHERE → "En algún lugar" / "en alguna parte" → (som-wer)**
+Se usa cuando **no sabes el lugar exacto**, pero sabes que **existe un lugar**.
+
+**SOMETHING → "Algo" / "alguna cosa" → (som-zin)**
+Se usa cuando **existe una cosa**, pero **no sabes cuál** o **no quieres especificarla**.
+
+**ANYONE / ANYBODY → "Cualquiera" / "alguien" (en preguntas o negativas) → (éni-uon / éni-bodi)**
+Se usan cuando **no sabes quién**, o cuando **no hay nadie**.
+ANYONE y ANYBODY son **intercambiables**.
+En inglés moderno, **ANYONE** suena un poco más formal, pero en la práctica se usan igual.
+
+**ANYWHERE → "En cualquier lugar" / "donde sea" / "en ningún lugar" → (éni-wer)**
+En **preguntas**: "en algún lugar / en cualquier lugar".
+En **negativas**: "en ningún lugar".
+En **afirmativas**: "en cualquier lugar".
+
+**ANYTHING → "Cualquier cosa" / "algo" / "nada" (en negativas) → (éni-zin)**
+En **preguntas**: "algo / cualquier cosa".
+En **negativas**: "nada".
+En **afirmativas**: "cualquier cosa".
+
+**NO ONE / NOBODY → "Nadie" / "ninguna persona" → (nou-uon / nou-bodi)**
+NO ONE y NOBODY son **intercambiables**.
+NO ONE suena un poco más formal, pero en la práctica se usan igual.
+
+**NOWHERE → "En ninguna parte" / "en ningún lugar" → (nou-wer)**
+Se usa para indicar **ausencia total de lugar**.
+Es el contrario de somewhere y anywhere.
+
+
+### Tabla resumen de pronombres indefinidos
+
+| Persona | Lugar | Cosa | Afirmativa | Negativa |
+|---------|-------|------|------------|----------|
+| Todo | EVERYONE / EVERYBODY | EVERYTHING | SOMEONE / SOMEBODY | ANYONE / ANYBODY |
+| Alguno | SOMEWHERE | SOMETHING | | |
+| Ninguno | NOWHERE | NOTHING | NO ONE / NOBODY | |
+
+Los pronombres indefinidos se colocan en el sitio que ocupa el nombre en la oración.
+
+- I would like to go **to Paris** ``(nombre)`` this summer  → I would like to go **somewhere** ``(pron. indef.)`` this summer.
+      ( ai wud láik tu góu tu Páris dis sómer  → ai wud láik tu góu som-wer dis sómer )
+      
+- **Jim** ``(nombre)`` gave me this  book  →  **Someone** ``(pron. indef.)`` gave me this book.
+      ( Jim geiv mi dis buk  →  som-uon geiv mi dis buk )
+
+- I won’t tell your secret to **Sam** ``(nombre)``  →  I won’t tell your secret to **anyone** ``(pron. indef.)``.
+      ( ai uóunt tel yor sícret tu Sam  →  ai uóunt tel yor sícret tu éni-uon )
+
+- I bought **my school supplies** ``(nombre)`` at the samll  →  I bought **everything** ``(pron. indef.)`` at the small.
+      ( ai bot mai skul sopláis at de smól  →  ai bot évri-zin at de smól )
+
+----------
+### Uso en oraciones afirmativas (pronombres indefinidos)
+
+**Con "SOME"**: Se usan para describir una cantidad indefinida.
+- Everyone is sleeping in my bed I gave everything to Sally.
+  ÉVRI-uon is slípin in mai bed ai geiv évri-zin tu Sáli
+  Todos están durmiendo en mi cama. Le di todo a Sally.
+
+- Someone is sleeping in my bed He saw something in the garden
+  Som-uon is slípin in mai bed ji só som-zin in de gárden
+  Alguien está durmiendo en mi cama. Él vio algo en el jardín.
+
+**Con "EVERY"**: Se usan para describir una cantidad completa.
+- Everyone is sleeping in mi bed...
+
+**Con "NO"**: Se usan a menudo en oraciones afirmativas con sentido negativos, no son oraciones negativas ya que les faltan la palabra "NOT".
+- No one is sleeping in my bed There is nothing to eat
+  Nóu-uon is slípin in mai bed der is nózin tu ít
+  Nadie está durmiendo en mi cama. No hay nada para comer.
+
+### Uso con sustantivos y posición en la oración
+
+Los pronombres indefinidos se colocan en el sitio que ocupa el nombre en la oración.
+
+• I would like to go to Paris this summer → I would like to go somewhere this summer.
+  (Ai wud láik tu góu tu Páris dis sómer → ai wud láik tu góu som-wer dis sómer)
+
+• Jim gave me this book → Someone gave me this book.
+  (Jim geiv mi dis buk → som-uon geiv mi dis buk)
+
+• I won't tell your secret to Sam → I won't tell your secret to anyone.
+  (Ai uóunt tel yor sícret tu Sam → ai uóunt tel yor sícret tu éni-uon)
