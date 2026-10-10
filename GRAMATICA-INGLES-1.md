@@ -6,10 +6,10 @@
 THE → Se usa para singular / plural, masculino / femenino.
 En castellano es: el, la, los, las.
 
-Pronunciación → The + consonante:  DA
-- the car → da kar
-- the book → da buk
-- the dog → da dog
+Pronunciación → The + consonante:  DE
+- the car → de kar
+- the book → de buk
+- the dog → de dog
 
 Pronunciación → The + vocal:  DI
 - the apple → di ápol
