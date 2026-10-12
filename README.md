@@ -6,11 +6,16 @@ En este repositorio se recogera todo el matrial de estudio para el estudio de in
 
 ## Indice General
 
-### 0. Inicio
-- [Gramatica1](GRAMATICA-INGLES-1.md)
-- [Verbo1](VERBOS-INGLES-1.md)
+### 0. Curso Labora Inglés A1
+- [Gramatica 1](GRAMATICA-INGLES-1.md)
+- [Verbo 1](VERBOS-INGLES-1.md)
 
-### 1. Vocabulario
+
+### 1. Curso EOI Inglés A1
+- [Apuntes de Septiembre y Octubre](APUNTES-SEP-OCT.md)
+
+
+### 2. Vocabulario extra
 - [Adjetivos sobre personas](Vocabulario/VOCABULARIO-ADJETIVOS-PERSONAS.md)
 - [Adjetivos senciales)](Vocabulario/VOCABULARIO-ADJETIVOS-ESENCIALES.md)
 - [Adjetivos sobre trabajos](Vocabulario/VOCABULARIO-ADJETIVOS-TRABAJOS.md)
