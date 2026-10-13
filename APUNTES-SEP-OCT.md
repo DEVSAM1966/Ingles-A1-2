@@ -72,25 +72,26 @@ La R de Sur casí no suena y en habla rápida ni se nota.
 
 Atención con el sonido de What's:
 
-1 En el sur de Inglaterra suena más a **uót**.
+1. En el sur de Inglaterra suena más a **uót**.
 
-2 En el norte y en muchos acentos, el sonido es **uát**.
+2. En el norte y en muchos acentos, el sonido es **uát**.
 
 
 Ambós son correctos.
 
 Sonido de your:
 
-1 La forma más lenta y clara su sonido es **iór**.
+1. La forma más lenta y clara su sonido es **iór**.
 
-2 En habla rápida y natural su sonido se reduce a **yo** o incluso **ya**.
-
+2. En habla rápida y natural su sonido se reduce a **yo** o incluso **ya**.
 
 Desde http://speecher.org (Bristish UK) suena  →  uáts yo neim
+
 
 - **What's your surname?** (uóts iór serneim)  →  ¿Cuál es tu apellido?
 
 Desde http://speecher.org (Bristish UK) suena como  →  **uáts yo seneim** (la r de surneim no es audible).
+
 
 - **What** (uót / uát)  →  Qué / Cuál / Lo que / ¡Qué! (exclamación)
 
@@ -99,16 +100,21 @@ Desde http://speecher.org (Bristish UK) suena como  →  **uáts yo seneim** (la
 - **Car** (káa)  →  Coche
 
 Nota: 
-    1. Aquí la regla es que la R finales no se pronuncian en Bristish UK, por eso se alarga la vocal a en este caso.
-    2. El Bristish USA suena esa r final (con la lengua hacia atrás) y el sonido queda como  →  káar
+
+1. Aquí la regla es que la R finales no se pronuncian en Bristish UK, por eso se alarga la vocal a en este caso.
+
+2. El Bristish USA suena esa r final (con la lengua hacia atrás) y el sonido queda como  →  káar
+
 
 - **Important** (impóotant)  →  Importante
 
 Bristish UK - La R no suena y alargamos la O.  
 
+
 - **A for apple** (ei fo ápol)  →  A de manzana
 
 Bristish UK - En habla rápida la R de for no suena (según que sitios puede ser ``fo o fa``).  Puede según la persona decir muy suave esa R de for (casi no se pronuncia).
+
 
 - **B for bus** (bii fo bél)  →  B de autobús
 
@@ -122,6 +128,8 @@ Las reglas de gramatica a seguir son:
 - Siempre se pondrá la primera letra en mayúscula.
 
 - Usaremos la preposición **ON** + **day of the week**.
+
+
 
 | Frase | Pronunciación | Traducción |
 |---|---|---|
@@ -145,9 +153,11 @@ Las reglas de gramatica a seguir son:
 
 En habla rṕida se junta las dos palabras y la 2ª empieza por vocal.
 
+
 - **Go home** (gou jóum)  →  Ir a casa
 
 Incorrecto en este caso poner la preposición **To** después del verbo Go (go to home) en este caso.
+
 
 - **Open** (óupen)  →  Abrir
 
@@ -158,6 +168,7 @@ Incorrecto en este caso poner la preposición **To** después del verbo Go (go t
 - **Listen** (lisen)  →  Escuchar
 
 No se pronuncia la T.
+
 
 - **Mobile** (móubal)  →  Móvil
 
@@ -185,6 +196,7 @@ No se pronuncia la T.
 - **Open your book at page eleven** (óupen yo bukat péich ileven)  →  Abre tu libro por la página once
 
 Se debe prestar atención con **book at** que une ambos sonidos formando  →  bukat
+
 
 - **Read the text on page six** (ríid de tekst on péich siks)  →  Lee el texto en la página seis
 
@@ -216,33 +228,38 @@ Con **do you* en habla lento suena como ``du iu``.  Pero en el habla rápido se 
 
 Me quedo por el momento con el sonido **diu**.
 
+
 - **Excuse me, what's this in English?** (eskiúsmi, uóts disin ínglish)  →  Disculpe, ¿qué es esto en inglés?
 
 Atención: 
 El sonido de **excuse me** en habla rápida se une como ``eskiúsmi``, luego el sonido de **this in** se unen en el sonido ``disin``.
 
+
 - **What page is it?** (uót péichesit)  →  ¿Qué pégina es?
 
 Atención: 
-    Con el sonido de las palabra ** page is it** en el habla rápida. Lo que yo he escuhado desde http://speecher.org 
+Con el sonido de las palabra ** page is it** en el habla rápida. Lo que yo he escuhado desde http://speecher.org 
 
-    1 - **page** suena como **péich**
+1. **page** suena como **péich**
 
-    2 - **is** se reduce a **e** (sonido neutro)
+2. **is** se reduce a **e** (sonido neutro)
 
-    3 - **it** suena a **et** con un **e** débil y **t** final
+3. **it** suena a **et** con un **e** débil y **t** final
 
-    4 - El resultado de la fusión es: **péich + e + set** 
+4. El resultado de la fusión es: **péich + e + set** 
+
 
 - **Can you help me, please?** (Keniu jelmi, plíis)  →  ¿Puedes ayudarme?, por favor
 
 En el habla rápida unimos los sonidos de **Can you** y **help me**.
 
+
 - **Can you repeat that, please?** (keniu ripítat, plíis)  →  ¿Puede repetir eso?, por favor
 
 En el habla rápida unimos las siguientes palabras:
-1 - **Can you** sonará **keniu**.
-2 - **repeat** that suena como **ripítat**.
+1. **Can you** sonará **keniu**.
+2. **repeat** that suena como **ripítat**.
+
 
 - **I don't know** (ái dóunt nou / ái dóunou - en habla rápida)  →  No sé
 
