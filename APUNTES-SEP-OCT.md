@@ -54,6 +54,9 @@ La R de Sur casí no suena y en habla rápida ni se nota.
 - **I guess**  →  Supongo
 
 
+---
+
+
 ### Abecedario en inglés
 
 | Letra | Pronunciación | Letra | Pronunciación | Letra | Pronunciación | Letra | Pronunciación | Letra | Pronunciación |
@@ -64,6 +67,9 @@ La R de Sur casí no suena y en habla rápida ni se nota.
 | P | /pii/ | Q | /kiú/ | R | /ar/ | S | /es/ | T | /tii/ |
 | U | /iú/ | V | /vii/ | W | /dábol-iu/ | X | /eks/ | Y | /uái/ |
 | Z | /zed/ | | | | | | | | |
+
+
+---
 
 
 ### Vocabulario.
@@ -121,6 +127,9 @@ Bristish UK - En habla rápida la R de for no suena (según que sitios puede ser
 - **Ring a bell** (ring a bél)  →  Os suena
 
 
+---
+
+
 ### Days of the week
 
 Las reglas de gramatica a seguir son:
@@ -140,9 +149,6 @@ Las reglas de gramatica a seguir son:
 | On Friday | (On Fráidei) | El viernes |
 | On Saturday | (On Sátadei) | El sábado |
 | On Sunday | (On Sándei) | El domingo |
-
-
----
 
 
 ## Day 09/30/2026 - Wednesday
@@ -185,6 +191,9 @@ No se pronuncia la T.
 - **Turn off** (tenof)  →  Apagar
 
 
+---
+
+
 ### Frases de un ejercicio para vocabulario
 
 - **The teacher says** (de tíicha séz)  →  El profesor dice
@@ -214,7 +223,6 @@ Suena como ``tu`` o incluso ``ta`` y pasa desapercibido sino se presta mucha ate
 En este caso lo une a Go  →  góutu, pero el sonido de tu es muy breve y suave.
 
 
-
 - **The students say** (de stiúdents séi)  →  El estudiante dice
 
 - **Sorry, I'm late** (sóri áim léit)  →  Lo siento, por llegar tarde
@@ -241,11 +249,8 @@ Atención:
 Con el sonido de las palabra ** page is it** en el habla rápida. Lo que yo he escuhado desde http://speecher.org 
 
 1. **page** suena como **péich**
-
 2. **is** se reduce a **e** (sonido neutro)
-
 3. **it** suena a **et** con un **e** débil y **t** final
-
 4. El resultado de la fusión es: **péich + e + set** 
 
 
@@ -262,6 +267,9 @@ En el habla rápida unimos las siguientes palabras:
 
 
 - **I don't know** (ái dóunt nou / ái dóunou - en habla rápida)  →  No sé
+
+
+---
 
 
 ### Country & Nationalites (kántri and nashonálitis)
@@ -291,4 +299,7 @@ En el habla rápida unimos las siguientes palabras:
 | Norway | Nóuei | Norwegian | Nouíyan |
 | Turkey | Térki | Turkish | Térkish |
 | Argentina | Ayentína | Argentinian | Ayentinían |
+
+
+---
 
