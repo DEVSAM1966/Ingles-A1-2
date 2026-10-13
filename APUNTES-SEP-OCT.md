@@ -71,14 +71,20 @@ La R de Sur casí no suena y en habla rápida ni se nota.
 - **What's your name?** (uóts iór néim)  →  ¿Cómo te llamas? / ¿Cúal es tu nombre?
 
 Atención con el sonido de What's:
-    1. En el sur de Inglaterra suena más a **uót**.
-    2. En el norte y en muchos acentos, el sonido es **uát**.
 
-    Ambós son correctos.
+1 En el sur de Inglaterra suena más a **uót**.
+
+2 En el norte y en muchos acentos, el sonido es **uát**.
+
+
+Ambós son correctos.
 
 Sonido de your:
-    1. La forma más lenta y clara su sonido es **iór**.
-    2. En habla rápida y natural su sonido se reduce a **yo** o incluso **ya**.
+
+1 La forma más lenta y clara su sonido es **iór**.
+
+2 En habla rápida y natural su sonido se reduce a **yo** o incluso **ya**.
+
 
 Desde http://speecher.org (Bristish UK) suena  →  uáts yo neim
 
@@ -92,8 +98,7 @@ Desde http://speecher.org (Bristish UK) suena como  →  **uáts yo seneim** (la
 
 - **Car** (káa)  →  Coche
 
-Nota:
-     
+Nota: 
     1. Aquí la regla es que la R finales no se pronuncian en Bristish UK, por eso se alarga la vocal a en este caso.
     2. El Bristish USA suena esa r final (con la lengua hacia atrás) y el sonido queda como  →  káar
 
@@ -190,11 +195,11 @@ Se debe prestar atención con **book at** que une ambos sonidos formando  →  b
 - **Go to page eighty-five** (góutu péich éiti-fáiv)  →  Ve a la página ochenta y cinco
 
 Nota:
-    El sonido de **go to** es complicado ya que **to** adquiere el sonido débil y muy suave en un habla rápido.
+El sonido de **go to** es complicado ya que **to** adquiere el sonido débil y muy suave en un habla rápido.
 
-    Suena como ``tu`` o incluso ``ta`` y pasa desapercibido sino se presta mucha atención.
+Suena como ``tu`` o incluso ``ta`` y pasa desapercibido sino se presta mucha atención.
 
-    En este caso lo une a Go  →  góutu, pero el sonido de tu es muy breve y suave.
+En este caso lo une a Go  →  góutu, pero el sonido de tu es muy breve y suave.
 
 
 
@@ -207,14 +212,14 @@ Nota:
 - **How do you spell it?** (jáu diu spél)  →  Cómo se deletrea?
 
 Atención: 
-    Con **do you* en habla lento suena como ``du iu``.  Pero en el habla rápido se junta y reduce en un solo sonido ``diu`` o en un habla más rápido suena ``dya``.
+Con **do you* en habla lento suena como ``du iu``.  Pero en el habla rápido se junta y reduce en un solo sonido ``diu`` o en un habla más rápido suena ``dya``.
 
-    Me quedo por el momento con el sonido **diu**.
+Me quedo por el momento con el sonido **diu**.
 
 - **Excuse me, what's this in English?** (eskiúsmi, uóts disin ínglish)  →  Disculpe, ¿qué es esto en inglés?
 
 Atención: 
-    El sonido de **excuse me** en habla rápida se une como ``eskiúsmi``, luego el sonido de **this in** se unen en el sonido ``disin``.
+El sonido de **excuse me** en habla rápida se une como ``eskiúsmi``, luego el sonido de **this in** se unen en el sonido ``disin``.
 
 - **What page is it?** (uót péichesit)  →  ¿Qué pégina es?
 
@@ -236,8 +241,8 @@ En el habla rápida unimos los sonidos de **Can you** y **help me**.
 - **Can you repeat that, please?** (keniu ripítat, plíis)  →  ¿Puede repetir eso?, por favor
 
 En el habla rápida unimos las siguientes palabras:
-    1 - **Can you** sonará **keniu**.
-    2 - **repeat that** suena como **ripítat**
+1 - **Can you** sonará **keniu**.
+2 - **repeat** that suena como **ripítat**.
 
 - **I don't know** (ái dóunt nou / ái dóunou - en habla rápida)  →  No sé
 
@@ -246,7 +251,7 @@ En el habla rápida unimos las siguientes palabras:
 
 | Country | Pronunciación | Nationality | Pronunciación |
 |---|---|---|---|
-| Spain | Espéin | Spanish | Espánish |
+| Spain |  spéin | Spanish |  spánish |
 | England | Íngland | English | Ínglish |
 | France | Fráns | French | Frénch |
 | Germany | Yérmani | German | Yérman |
