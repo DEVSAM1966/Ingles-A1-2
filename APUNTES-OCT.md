@@ -191,8 +191,8 @@ El artículo indeterminado A / AN se pronuncia de forma distinta según la palab
 
 Suena de la siguiente manera:
 
-Fuerte	→  **ÉI**	Cuando se dice solo o con énfasis.
-Débil	→  **a**	En una frase normal, sin énfasis.
+1. Fuerte	→  **ÉI**.  Cuando se dice solo o con énfasis.
+2. Débil	→  **a**.  En una frase normal, sin énfasis.
 
 En habla natural, A casi siempre se pronuncia **a**, muy suave.
 
@@ -206,8 +206,8 @@ Ejemplos:
 
 Suena de la siguiente manera:
 
-Fuerte  →  **AN**. Empleado para enfatizar, corregir, dudas, habla despacio. 
-Débil   →  **an**, con la a débil.  Dentro de una frase.
+1. Fuerte  →  **AN**. Empleado para enfatizar, corregir, dudas, habla despacio. 
+2. Débil   →  **an**, con la a débil.  Dentro de una frase.
 
 Ejemplos:
 
@@ -298,6 +298,7 @@ Por el momento las normas son:
 - Como norma generalista, añadimos una **-S** al sustantivo.
 
 A pen / Two pen**s**.
+
 A book / Two book**s**.
 
 
@@ -346,7 +347,11 @@ A book / Two book**s**.
 - Existe palabras escritas en plural pero se refieren a un solo objeto y no ha varios.
 
 **Trousers** (**tráusas**)  →  Pantalón (Esta en plural pero se usa para una sola prenda).
+
 **Glasses** (**glásis**)  →  Gafas (nos referimos a una sola)
+
 **Scissors** (**sísas**)  →  Tijeras.
+
 **Pliers** (**pláias**)  →  Alicates.
+
 
