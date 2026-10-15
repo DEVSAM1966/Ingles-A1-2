@@ -1,4 +1,4 @@
-# APUNTES CLASES DE SEPTIEMBRE
+# APUNTES CLASES DE OCTUBRE
 
 ## Day 10/05/2026 - Monday
 
@@ -50,7 +50,7 @@ Para las profesiones siempre se les pone delante el articulo indeterminado singu
 
 - **Teacher** (**ticha**)  →  Profesor
 
-- **Waiter** (wéita**)  →  Camarero  /  **Waitress** (**Wéitres**)  →  Camarera
+- **Waiter** (**wéita**)  →  Camarero  /  **Waitress** (**Wéitres**)  →  Camarera
 
 - **Taxi driver** (**táksi draiva**)  →  Taxista
 
@@ -139,7 +139,8 @@ La pronunciación del 0 (**óu**) es usado comumente en números de teléfonos, 
 
 Las direcciones sencillas en inglés (address) siguen el  formato:
 
-	**Number  +  Name  + Street / Road / Avenue**
+**Number  +  Name  + Street / Road / Avenue**
+
 
 Ejemplos:
 
@@ -152,4 +153,200 @@ Ejemplos:
 
 ---
 
+
+## Day 10/014/2026 - Wednesday
+
+### Vocabulario (Libro pág. 15 y 126)
+
+| Inglés | Pronunciación (UK) | Castellano |
+|---|---|---|
+| umbrella | ambréla | paraguas |
+| mobile phone | móubal fóun | teléfono móvil |
+| bag | bag | bolsa, bolso |
+| hat | jat | sombrero |
+| purse | pers | monedero |
+| wallet | uólet | cartera |
+| computer | compiúta | ordenador |
+| computer desk | compiúta desk | mesa de ordenador |
+| laptop | láptop | ordenador portátil |
+| sandwich | sánuich | sándwich |
+| sandwiches | sánuiches | sándwiches |
+| bottle of water | bótol of uóta | botella de agua |
+| make-up | méik-ap | maquillaje |
+| key | kíi | llave |
+| notebook | nóutbuk | cuaderno |
+| banana | banána | plátano |
+| pencil case | pénsol kéis | estuche |
+| rubber | rába | goma de borrar |
+| pen | pen | bolígrafo |
+
+Recordemos que con estas palabras podemos emplear el articulo indeterminado  →  **A / AN**
+
+
+### Articulo indeterminado
+
+El artículo indeterminado A / AN se pronuncia de forma distinta según la palabra que le sigue.
+
+- **A**  →  **a** / **ei**
+
+Suena de la siguiente manera:
+
+Fuerte	→  **ÉI**	Cuando se dice solo o con énfasis.
+Débil	→  **a**	En una frase normal, sin énfasis.
+
+En habla natural, A casi siempre se pronuncia **a**, muy suave.
+
+Ejemplos:
+
+    a book → a buk
+    a car → a cáa
+	a pen → a pen
+
+- **AN**  →  **an**
+
+Suena de la siguiente manera:
+
+Fuerte  →  **AN**. Empleado para enfatizar, corregir, dudas, habla despacio. 
+Débil   →  **an**, con la a débil.  Dentro de una frase.
+
+Ejemplos:
+
+    an apple → an ápol
+    an umbrella → an ambréla
+    an hour → an áua
+
+- Ojo: no es la letra, es el sonido:
+
+    a university → suena "a" porque university empieza con sonido "iu" (consonante).
+
+    an hour → suena "an" porque hour empieza con sonido "au" (la h es muda).
+
+El 95% se emplea la forma débil.
+
+
+### To have - Presente afirmativo
+
+| To have | Pronunciación (UK) | Castellano |
+|---|---|---|
+| I have | ái jav | yo tengo |
+| You have | iu jav | tú tienes |
+| He has | ji jaz | él tiene |
+| She has | shi jaz | ella tiene |
+| It has | it jaz | ello tiene |
+| We have | ui jav | nosotros tenemos |
+| You have | iu jav | vosotros tenéis |
+| They have | dei jav | ellos tienen |
+
+
+### To have - Presente interrogativo
+
+- Sin auxiliar.
+
+| To have (interrogativo) | Pronunciación (UK) | Castellano |
+|---|---|---|
+| Have I? | jav ái? | ¿tengo yo? |
+| Have you? | jav iu? | ¿tienes tú? |
+| Has he? | jaz ji? | ¿tiene él? |
+| Has she? | jaz shi? | ¿tiene ella? |
+| Has it? | jaz it? | ¿tiene ello? |
+| Have we? | jav ui? | ¿tenemos nosotros? |
+| Have you? | jav iu? | ¿tenéis vosotros? |
+| Have they? | jav dei? | ¿tienen ellos? |
+
+
+- Con auxiliar
+
+| To have (interrogativo con auxiliar) | Pronunciación (UK) | Castellano |
+|---|---|---|
+| Do I have? | du ái jav? | ¿tengo yo? |
+| Do you have? | du iu jav? | ¿tienes tú? |
+| Does he have? | das ji jav? | ¿tiene él? |
+| Does she have? | das shi jav? | ¿tiene ella? |
+| Does it have? | das it jav? | ¿tiene ello? |
+| Do we have? | du ui jav? | ¿tenemos nosotros? |
+| Do you have? | du iu jav? | ¿tenéis vosotros? |
+| Do they have? | du dei jav? | ¿tienen ellos? |
+
+
+### To have - Presente negativo
+
+| To have sin contraer | Pronunciación (UK) | To have contraído | Pronunciación (UK) | Castellano |
+|---|---|---|---|---|
+| I do not have | ái du not jav | I don't have | ái dóunt jav | yo no tengo |
+| You do not have | iu du not jav | You don't have | iu dóunt jav | tú no tienes |
+| He does not have | ji das not jav | He doesn't have | ji dásent jav | él no tiene |
+| She does not have | shi das not jav | She doesn't have | shi dásent jav | ella no tiene |
+| It does not have | it das not jav | It doesn't have | it dásent jav | ello no tiene |
+| We do not have | ui du not jav | We don't have | ui dóunt jav | nosotros no tenemos |
+| You do not have | iu du not jav | You don't have | iu dóunt jav | vosotros no tenéis |
+| They do not have | dei du not jav | They don't have | dei dóunt jav | ellos no tienen |
+
+
+### Singular / Plural
+
+Por el momento las normas son:
+
+- Los adjetivos siempre en singular y delante del sustantivo.
+
+- Usar el articulo indeterminado: A / AN.
+
+- En las profesiones se pone delante A / AN.
+
+
+### Plural en Inglés
+
+- Como norma generalista, añadimos una **-S** al sustantivo.
+
+A pen / Two pen**s**.
+A book / Two book**s**.
+
+
+- Palabras terminadas en consonante + Y.  →   En el plural **Y** se sustituye por **I + ES**.
+
+| Inglés | Pronunciación | Castellano |
+|---------|----------------|-------------|
+| PARTY - PARTIES | párti - pártis | Fiesta - Fiestas |
+| CITY - CITIES | síti - sítis | Ciudad - Ciudades |
+| COUNTRY - COUNTRIES | kántri - kántris | País - Países |
+
+
+- Palabras terminadas en -SS, -S, -SH, -CH, -X, -O.  →  En el plural se añade **-ES**.
+
+| Inglés | Pronunciación | Castellano |
+|---------|----------------|-------------|
+| CHURCH - CHURCHES | chérch - chérchis | Iglesia - Iglesias |
+| BOX - BOXES | boks - bóksis | Caja - Cajas |
+| GLASS - GLASSES | glás - glásis | Vaso - Vasos |
+| TOMATO - TOMATOES | toméitou - toméitous | Tomate - Tomates |
+
+
+- Palabras que terminan en -F o -FE.  →  En el plural se elimina **-F / -FE** y se sustituye por **-VES**.
+
+| Inglés | Pronunciación | Castellano |
+|---------|----------------|-------------|
+| LIFE - LIVES | láif - láivs | Vida - Vidas |
+| WOLF - WOLVES | wúlf - wólvs | Lobo - Lobos |
+| WIFE - WIVES | wáif - wáivs | Esposa - Esposas |
+| LEAF - LEAVES | líf - lívs | Hoja - Hojas |
+
+
+- Plurales irregulares.  Es distinto el singular y el plural.
+
+| Inglés | Pronunciación | Castellano |
+|---------|----------------|-------------|
+| MAN - MEN | maen - men | Hombre - Hombres |
+| CHILD - CHILDREN | cháild - chíldren | Niño - Niños |
+| WOMAN - WOMEN | wúman - wímen | Mujer - Mujeres |
+| PERSON - PEOPLE | pérson - pípol | Persona - Personas |
+| TOOTH - TEETH | túz - tíz | Diente - Dientes |
+| FOOT - FEET | fut - fít | Pie - Pies |
+| MOUSE - MICE | máus - máis | Raton - Ratones |
+
+
+- Existe palabras escritas en plural pero se refieren a un solo objeto y no ha varios.
+
+**Trousers** (**tráusas**)  →  Pantalón (Esta en plural pero se usa para una sola prenda).
+**Glasses** (**glásis**)  →  Gafas (nos referimos a una sola)
+**Scissors** (**sísas**)  →  Tijeras.
+**Pliers** (**pláias**)  →  Alicates.
 
