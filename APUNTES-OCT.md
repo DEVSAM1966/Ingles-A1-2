@@ -58,13 +58,13 @@ Para las profesiones siempre se les pone delante el articulo indeterminado singu
 
 - **Singer** (**sínga**)  →  Cantante
 
-- **policeman** (políis man**)  /  **policewoman** (políis wúman**)  →  Policia (hombre o mujer)
+- **policeman** (**políis man**)  /  **policewoman** (**políis wúman**)  →  Policia (hombre o mujer)
 
 - **Police officer** (**políis ófisa**)  →  Oficial de policia
 
-- **Actor** (**ákta**)  →  Actor  /  **Actress** (**áktres**)  →  Acriz
+- **Actor** (**ákta**)  →  Actor  /  **Actress** (**áktres**)  →  Actriz
 
-- **Fireman** (**fáaiman**)  →  Bombero
+- **Fireman** (**fáiaman**)  →  Bombero
 
 - **Football player** (**fútbol pléia**)  →  Jugador de fulbol
 
@@ -161,17 +161,17 @@ Ejemplos:
 | Inglés | Pronunciación (UK) | Castellano |
 |---|---|---|
 | umbrella | ambréla | paraguas |
-| mobile phone | móubal fóun | teléfono móvil |
+| mobile phone | móubail fóun | teléfono móvil |
 | bag | bag | bolsa, bolso |
 | hat | jat | sombrero |
-| purse | pers | monedero |
+| purse | pees | monedero |
 | wallet | uólet | cartera |
 | computer | compiúta | ordenador |
 | computer desk | compiúta desk | mesa de ordenador |
 | laptop | láptop | ordenador portátil |
-| sandwich | sánuich | sándwich |
-| sandwiches | sánuiches | sándwiches |
-| bottle of water | bótol of uóta | botella de agua |
+| sandwich | sán-uich | sándwich |
+| sandwiches | sán-uiches | sándwiches |
+| bottle of water | bótol av uóta | botella de agua |
 | make-up | méik-ap | maquillaje |
 | key | kíi | llave |
 | notebook | nóutbuk | cuaderno |
@@ -272,14 +272,14 @@ El 95% se emplea la forma débil.
 
 | To have sin contraer | Pronunciación (UK) | To have contraído | Pronunciación (UK) | Castellano |
 |---|---|---|---|---|
-| I do not have | ái du not jav | I don't have | ái dóunt jav | yo no tengo |
-| You do not have | iu du not jav | You don't have | iu dóunt jav | tú no tienes |
-| He does not have | ji das not jav | He doesn't have | ji dásent jav | él no tiene |
-| She does not have | shi das not jav | She doesn't have | shi dásent jav | ella no tiene |
-| It does not have | it das not jav | It doesn't have | it dásent jav | ello no tiene |
-| We do not have | ui du not jav | We don't have | ui dóunt jav | nosotros no tenemos |
-| You do not have | iu du not jav | You don't have | iu dóunt jav | vosotros no tenéis |
-| They do not have | dei du not jav | They don't have | dei dóunt jav | ellos no tienen |
+| I do not have | ái du not jav | I don't have | ái dóint jav | yo no tengo |
+| You do not have | iu du not jav | You don't have | iu dóint jav | tú no tienes |
+| He does not have | ji dóos not jav | He doesn't have | ji dósent jav | él no tiene |
+| She does not have | shi dóos not jav | She doesn't have | shi dósent jav | ella no tiene |
+| It does not have | it dóos not jav | It doesn't have | it dósent jav | ello no tiene |
+| We do not have | ui du not jav | We don't have | ui dóint jav | nosotros no tenemos |
+| You do not have | iu du not jav | You don't have | iu dóint jav | vosotros no tenéis |
+| They do not have | dei du not jav | They don't have | dei dóint jav | ellos no tienen |
 
 
 ### Singular / Plural
