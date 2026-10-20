@@ -118,8 +118,48 @@ Si la pregunta acaba con una preposición, en la respuesta deberá contener la m
 | 8 | eight | éit |
 | 9 | nine | náin |
 | 10 | ten | ten |
+| 11 | eleven | iléven |
+| 12 | twelve | tuélv |
+| 13 | thirteen | zertíin |
+| 14 | fourteen | fortíin |
+| 15 | fifteen | fiftíin |
+| 16 | sixteen | siks-tíin |
+| 17 | seventeen | sevntíin |
+| 18 | eighteen | eitíin |
+| 19 | nineteen | nain-tíin |
+| 20 | twenty | tuénti |
+| 21 | twenty-one | tuénti-uán |
+| 22 | twenty-two | tuénti-tú |
+| 23 | twenty-three | tuénti-zríi |
+| 30 | thirty | zérti |
+| 34 | thirty-four | zérti-fóo |
+| 35 | thirty-five | zérti-fáiv |
+| 36 | thirty-six | zérti-siks |
+| 40 | forty | fóoti |
+| 47 | forty-seven | fóoti-séven |
+| 48 | forty-eight | fóoti-éit |
+| 49 | forty-nine | fóoti-náin |
+| 50 | fifty | fífti |
+| 60 | sixty | síksti |
+| 70 | seventy | séventi |
+| 80 | eighty | éiti |
+| 90 | ninety | náinti |
+| 100 | one hundred | uán-hándred |
+| 101 | one hundred and one | uán-hándred-and-uán |
+| 123 | one hundred and twenty-three | uán-hándred-and-tuénti-zríi |
+| 267 | two hundred and sixty-seven | tú-hándred-and-síksti-séven |
+| 1000 | one thousand | uán-záusand |
+| 1000000 | one million | uán-mílion |
 
 La pronunciación del 0 (**óu**) es usado comumente en números de teléfonos, habitaciones, etc.
+
+**Notas rápidas de pronunciación:**
+
+- Acentos: En los números terminados en **-teen** (13-19), **el acento suele ir al final** (ej. thir-TEEN). En los terminados en **-ty** (30, 40...), **el acento va al principio** (ej. THIR-ty) .
+
+- **El "and" británico:** En el Reino Unido es común decir "and" después de "hundred" (ej. 101 = one hundred and one), mientras que en EE. UU. suele omitirse .
+
+- Cuidado con "forty": A diferencia de "four" (cuatro), 40 se escribe forty (sin la "u") 
 
 
 ### Vocabulario
@@ -154,7 +194,7 @@ Ejemplos:
 ---
 
 
-## Day 10/014/2026 - Wednesday
+## Day 10/14/2026 - Wednesday
 
 ### Vocabulario (Libro pág. 15 y 126)
 
@@ -353,5 +393,156 @@ A book / Two book**s**.
 **Scissors** (**sísas**)  →  Tijeras.
 
 **Pliers** (**pláias**)  →  Alicates.
+
+
+
+---
+
+
+
+## Day 10/19/2026 - Monday
+
+### Números del 11 al 100
+
+Corresponde a la página 18 del libro.
+
+| Número | Inglés | Pronunciación figurada (UK) |
+|---|---|---|
+| 11 | eleven | iléven |
+| 12 | twelve | tuélv |
+| 13 | thirteen | zertíin |
+| 14 | fourteen | fortíin |
+| 15 | fifteen | fiftíin |
+| 16 | sixteen | siks-tíin |
+| 17 | seventeen | sevntíin |
+| 18 | eighteen | eitíin |
+| 19 | nineteen | nain-tíin |
+| 20 | twenty | tuénti |
+| 21 | twenty-one | tuénti-uán |
+| 22 | twenty-two | tuénti-tú |
+| 23 | twenty-three | tuénti-zríi |
+| 30 | thirty | zérti |
+| 34 | thirty-four | zérti-fóo |
+| 35 | thirty-five | zérti-fáiv |
+| 36 | thirty-six | zérti-siks |
+| 40 | forty | fóoti |
+| 47 | forty-seven | fóoti-séven |
+| 48 | forty-eight | fóoti-éit |
+| 49 | forty-nine | fóoti-náin |
+| 50 | fifty | fífti |
+| 60 | sixty | síksti |
+| 70 | seventy | séventi |
+| 80 | eighty | éiti |
+| 90 | ninety | náinti |
+| 100 | one hundred | uán-hándred |
+| 101 | one hundred and one | uán-hándred-and-uán |
+| 123 | one hundred and twenty-three | uán-hándred-and-tuénti-zríi |
+| 267 | two hundred and sixty-seven | tú-hándred-and-síksti-séven |
+| 1000 | one thousand | uán-záusand |
+| 1000000 | one million | uán-mílion |
+
+**Notas rápidas de pronunciación:**
+
+- Acentos: En los números terminados en **-teen** (13-19), **el acento suele ir al final** (ej. thir-TEEN). En los terminados en **-ty** (30, 40...), **el acento va al principio** (ej. THIR-ty) .
+
+- **El "and" británico:** En el Reino Unido es común decir "and" después de "hundred" (ej. 101 = one hundred and one), mientras que en EE. UU. suele omitirse .
+
+- Cuidado con "forty": A diferencia de "four" (cuatro), 40 se escribe forty (sin la "u") 
+
+
+### Vocabulario
+
+- **First** (**fést**)  →  Primero
+
+- **Second** (**sécond**) →  Segundo
+
+- **Years** (**yías**)  →  Años
+
+- **Ago** (**agóu**)  → Hace (tiempo) / atrás
+
+- **Who** (**jú**) →  ¿Quién?
+
+- **What** (**uát / uót**)  →  ¿Qué? (pregunta) / ¿Cuál? (opciones) / Lo que (relativo)
+
+- **Which** (**uích**)  →  ¿Cuál?, ¿Cuáles?
+
+- **How** (**jáu**)  →  ¿Cuántos? (cantidad), ¿Cómo? (manera)
+
+- **Be married to** (**bi mérrid tu**)  →  Estar casado/a con
+
+- **bless you** (**bles iú**)  →  ¡Salud! (a un estornudo) / ¡Dios te bendiga!
+
+
+### El uso del To Be
+
+El verbo To be significa: Ser, Estar y Tener (que corresponde a To Have).
+
+Usaremos el significado de "tener" del To be en los siguientes casos:
+
+
+- Para preguntar por la edad de alguien:
+
+How old **is** Philip?  Cúantos años **tiene** Philip?
+
+
+- Para expresar la edad:
+
+**He's** 20 years old / **He's** 20  El **tiene** 20 años / El **tiene** 20
+
+Hay que prestar atención que es valido poner **"year old"** o no ponerlo.
+
+
+- Expresar que se tiene calor, frio, hambre, etc. y que en castellano empleamos el verbo tener:
+
+I'm hungry  Tengo hambre
+
+I'm sleepy  Tengo sueño
+
+I'm in a hurry   Tengo prisa
+
+I'm cold   Tengo frío
+
+She's hot  Tiene (ella) calor
+
+He's thirsty  Tiene (él) sed
+
+They're afraid  Ellos tienen miedo
+
+
+### Adjetivos antónimos (vocabulario)
+
+Del libro, página 127.  Daremos una lista de adjetivos opuestos entre si.
+
+- **beautiful / ugly** (**biútiful / ógli**)  →  Hermoso(a), bello(a), precioso(a) / feo(a)
+
+Beautiful se usa para personas, cosas, paisajes, etc. (más intenso que pretty).
+
+Ugly es el antónimo directo; para personas puede sonar fuerte, así que en contextos suaves se usa más not very good-looking.
+
+- **big / small** (**big / smol**)  →  Grande / Pequeño(a)
+
+- **friendly / unfriendly** (**fréndli / un-fréndli**)  →  amable, simpático(a) / antipático(a), poco amable, hostil
+
+- **happy / sad** (**jápi / sad**)  →  Feñiz. contento(a) / triste
+
+- **hot /cold** (**jot / cóuld**)  →  Caliente, caluroso / frio
+
+- **tall / short** (**tol / shot**)  →  Alto(a) (persona, edificio) / bajo(a) (persona), corto(a) (cosa)
+
+- **tired / active** (**táiad / áctiv)  →  Cansado(a) / activo(a)
+
+- **empty / full** (**émpti / ful**)  →  Vacío(a) / lleno(a)
+
+
+Para pregunta del siguiente tipo, podemos contestar:
+
+This is a bag  →  It is big
+
+Is it big?  →  Yes, it is big (por ejemplo)
+
+
+---
+
+
 
 
