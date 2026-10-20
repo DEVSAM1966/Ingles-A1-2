@@ -494,19 +494,19 @@ Hay que prestar atención que es valido poner **"year old"** o no ponerlo.
 
 - Expresar que se tiene calor, frio, hambre, etc. y que en castellano empleamos el verbo tener:
 
-I'm hungry  Tengo hambre
+I'm hungry  →  Tengo hambre
 
-I'm sleepy  Tengo sueño
+I'm sleepy  →  Tengo sueño
 
-I'm in a hurry   Tengo prisa
+I'm in a hurry  →  Tengo prisa
 
-I'm cold   Tengo frío
+I'm cold  →  Tengo frío
 
-She's hot  Tiene (ella) calor
+She's hot  →  Tiene (ella) calor
 
-He's thirsty  Tiene (él) sed
+He's thirsty  →  Tiene (él) sed
 
-They're afraid  Ellos tienen miedo
+They're afraid  →  Ellos tienen miedo
 
 
 ### Adjetivos antónimos (vocabulario)
@@ -521,9 +521,9 @@ Ugly es el antónimo directo; para personas puede sonar fuerte, así que en cont
 
 - **big / small** (**big / smol**)  →  Grande / Pequeño(a)
 
-- **friendly / unfriendly** (**fréndli / un-fréndli**)  →  amable, simpático(a) / antipático(a), poco amable, hostil
+- **friendly / unfriendly** (**fréndli / un-fréndli**)  →  Amable, simpático(a) / antipático(a), poco amable, hostil
 
-- **happy / sad** (**jápi / sad**)  →  Feñiz. contento(a) / triste
+- **happy / sad** (**jápi / sad**)  →  Feliz. contento(a) / triste
 
 - **hot /cold** (**jot / cóuld**)  →  Caliente, caluroso / frio
 
