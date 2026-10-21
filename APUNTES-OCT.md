@@ -358,8 +358,14 @@ A book / Two book**s**.
 | CHURCH - CHURCHES | chérch - chérchis | Iglesia - Iglesias |
 | BOX - BOXES | boks - bóksis | Caja - Cajas |
 | GLASS - GLASSES | glás - glásis | Vaso - Vasos |
-| TOMATO - TOMATOES | toméitou - toméitous | Tomate - Tomates |
+| TOMATO - TOMATOES | toméitou - toméitouz | Tomate - Tomates |
+| POTATO - POTATOES | potéitou - potéitouz | Patata - Patatas |
+| VOLCANO - VOLCANOES | volkéinou - volkéinouz | Volcán - Volcanes |
+| HERO - HEROES | jírou - jírouz | Heroe - Heores |
 
+**NOTA IMPORTANTE** Si la palabra acaba en **vocal+O, el plural se forma solo con -S** (nunca con -ES)
+
+Ejemplos: **Radio / Radios**  →  (**réidiou / réidiouz**)
 
 - Palabras que terminan en -F o -FE.  →  En el plural se elimina **-F / -FE** y se sustituye por **-VES**.
 
@@ -487,9 +493,9 @@ How old **is** Philip?  Cúantos años **tiene** Philip?
 
 - Para expresar la edad:
 
-**He's** 20 years old / **He's** 20  El **tiene** 20 años / El **tiene** 20
+**He's** 20 years old / **He's** 20   →   El **tiene** 20 años / El **tiene** 20
 
-Hay que prestar atención que es valido poner **"year old"** o no ponerlo.
+Hay que prestar atención que es valido poner **"year old" o no ponerlo**.
 
 
 - Expresar que se tiene calor, frio, hambre, etc. y que en castellano empleamos el verbo tener:
@@ -519,6 +525,7 @@ Beautiful se usa para personas, cosas, paisajes, etc. (más intenso que pretty).
 
 Ugly es el antónimo directo; para personas puede sonar fuerte, así que en contextos suaves se usa más not very good-looking.
 
+
 - **big / small** (**big / smol**)  →  Grande / Pequeño(a)
 
 - **friendly / unfriendly** (**fréndli / un-fréndli**)  →  Amable, simpático(a) / antipático(a), poco amable, hostil
@@ -541,8 +548,10 @@ This is a bag  →  It is big
 Is it big?  →  Yes, it is big (por ejemplo)
 
 
+
 ---
 
 
 
+### Family
 

@@ -371,12 +371,12 @@ Se detalla las formas sin contraer y contraidas.
 | Inglés | Pronunciación | Inglés | Pronunciación |
 |---|---|---|---|
 | I am | ái am | I'm | áim |
-| You are | iu ar | You're | iór |
+| You are | yu ar | You're | yór |
 | He is | ji is | He's | jis |
 | She is | shi is | She's | shis |
 | It is | it is | It's | its |
-| We are | ui ar | We're | uíar |
-| You are | iu ar | You're | iór |
+| We are | ui ar | We're | uír |
+| You are | yu ar | You're | yór |
 | They are | dei ar | They're | déir |
 
 En inglés britanico la **R final es muy suave, casi no se pronuncia**.  Pero para un castellano parlante es útil escribirla para no olvidar que está ahí.
@@ -387,12 +387,12 @@ En inglés britanico la **R final es muy suave, casi no se pronuncia**.  Pero pa
 | Inglés | Pronunciación (UK) |
 |---|---|
 | Am I? | am ái? |
-| Are you? | ar iu? |
+| Are you? | ar yu? |
 | Is he? | is ji? |
 | Is she? | is shi? |
 | Is it? | is it? |
 | Are we? | ar ui? |
-| Are you? | ar iu? |
+| Are you? | ar yu? |
 | Are they? | ar dei? |
 
 
@@ -401,12 +401,12 @@ En inglés britanico la **R final es muy suave, casi no se pronuncia**.  Pero pa
 | Inglés | Pronunciación | Inglés | Pronunciación | Inglés | Pronunciación |
 |---|---|---|---|---|---|
 | I am not | ái am not | I'm not | áim not | — | — |
-| You are not | iu ar not | You're not | iór not | You aren't | iu árent |
+| You are not | iu ar not | You're not | yór not | You aren't | yu árent |
 | He is not | ji is not | He's not | jis not | He isn't | ji ísent |
 | She is not | shi is not | She's not | shis not | She isn't | shi ísent |
 | It is not | it is not | It's not | its not | It isn't | it ísent |
-| We are not | ui ar not | We're not | uíar not | We aren't | ui árent |
-| You are not | iu ar not | You're not | iór not | You aren't | iu árent |
+| We are not | ui ar not | We're not | uír not | We aren't | ui árent |
+| You are not | iu ar not | You're not | yór not | You aren't | yu árent |
 | They are not | dei ar not | They're not | déir not | They aren't | dei árent |
 
 Nota
@@ -416,6 +416,12 @@ Nota
     2. aren't → suena árent (con e corta, no a).
 
     3. isn't → suena ísent (con e débil).
+
+
+- El complejo sonido de **aren't se ha propuesto decirlo como arent**, pero una aproximación más realista es **aarnt o aarn (la t apenas se pronuncia)**.
+
+- Para **isn't se ha propuesto ísent**, pero un sonido más realista sería **ízent**.
+
 
 #### To be dentro de una frase.
 
@@ -440,7 +446,7 @@ La pronunciación dentro de frases cambian si la siguiente palabra que sigue al 
 
 El sonido sh es el que hacemos al pedir silencio. La duda es si el sonido sh corresponde a la t.
 
-- **They’re able  →  dear éi-bol**  (To be + vocal….  →  dear)
+- **They’re able  →  dea(r) éi-bol**  (To be + vocal….  →  dea ó dear, pero el más realista sería **dea**)
 - **They’re happy  →  dea já-pi**  (to be + consonante….  →  dea)
 
 ---
