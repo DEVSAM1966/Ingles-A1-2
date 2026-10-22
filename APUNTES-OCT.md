@@ -455,6 +455,8 @@ Corresponde a la página 18 del libro.
 
 - Cuidado con "forty": A diferencia de "four" (cuatro), 40 se escribe forty (sin la "u") 
 
+- **Hyphen** (**jáifen**)  →  Guión (es el signo **"-"**)
+
 
 ### Vocabulario
 
@@ -553,5 +555,67 @@ Is it big?  →  Yes, it is big (por ejemplo)
 
 
 
+## Day 10/21/2026 - Wednesday
+
+
 ### Family
+
+| Family English | Pronunciación UK | Traducción |
+|---|---|---|
+| Father (dad) | fáda (dad) | padre (papá) |
+| Mother (mum) | móda (mam) | madre (mamá) |
+| Parents | péarents | padres |
+| Brother | bróda | hermano |
+| Sister | sísta | hermana |
+| Son | san | hijo |
+| Daughter | dóta | hija |
+| Children | chíldren | niños / hijos |
+| Husband | jázband | marido |
+| Wife | uáif | esposa |
+| Nephew | néfiu | sobrino |
+| Niece | níis | sobrina |
+| Uncle | ánkel | tío |
+| Aunt | ant | tía |
+| Grandfather | grándfada | abuelo |
+| Grandmother | grándmoda | abuela |
+| Grandparents | grándpearents | abuelos |
+| Cousin | cásen | primo/a |
+| Grandson | grárdson | nieto |
+| Granddaughter | grárddota | nieta |
+| Grandchildren | grárdchildren | nietos |
+| Stepfather | stépfada | padrastro |
+| Stepmother | stépmoda | madrastra |
+| Stepson | stépson | hijastro |
+| Stepdaughter | stépdota | hijastra |
+| Father-in-law | fádarinlo | suegro |
+| Mother-in-law | módarinlo | suegra |
+| Brother-in-law | bródarinlo | cuñado |
+| Sister-in-law | sístarinlo | cuñada |
+| Relative | rélativ | pariente |
+| Siblings | síblings | hermanos (de sangre) |
+
+
+Ejemplo de tipo de preguntas y respuesta:
+
+| Pregunta (Inglés) | Pronunciación UK | Traducción | Respuesta típica (Inglés) | Pronunciación UK | Traducción |
+|---|---|---|---|---|---|
+| Who is he? | jú is jí | ¿Quién es él? | He is my brother. | jí is mái bróda | Él es mi hermano. |
+| Who is she? | jú is shí | ¿Quién es ella? | She is my sister. | shí is mái sísta | Ella es mi hermana. |
+| Who is that? | jú is dat | ¿Quién es ese/esa? | That is my friend. | dat is mái frend | Ese/esa es mi amigo/a. |
+| Who is this? | jú is dis | ¿Quién es este/esta? | This is my teacher. | dis is mái tícha | Este/esta es mi profesor/a. |
+| Who is it? | jú is it | ¿Quién es? (al llamar/tocar) | It's me. | its mí | Soy yo. |
+| Who is your father? | jú is yó fáda | ¿Quién es tu padre? | My father is John. | mái fáda is Yon | Mi padre es John. |
+| Who is your mother? | jú is yó móda | ¿Quién es tu madre? | My mother is Ana. | mái móda is Ána | Mi madre es Ana. |
+
+
+La pregunta / respuesta sobre familiares usada en clase:
+
+- **Who is _ _ _ _ _?**  (pregunta)
+
+- **He / She is my _ _ _ _ _ ** (respuesta)
+
+
+
+---
+
 
