@@ -612,7 +612,7 @@ La pregunta / respuesta sobre familiares usada en clase:
 
 - **Who is _ _ _ _ _?**  (pregunta)
 
-- **He / She is my _ _ _ _ _ ** (respuesta)
+- **He / She is my _ _ _ _ _ .**  (respuesta)
 
 
 
