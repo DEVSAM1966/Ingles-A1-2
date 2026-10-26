@@ -564,7 +564,7 @@ Is it big?  →  Yes, it is big (por ejemplo)
 |---|---|---|
 | Father (dad) | fáda (dad) | padre (papá) |
 | Mother (mum) | móda (mam) | madre (mamá) |
-| Parents | péarents | padres |
+| Parents | péerents | padres |
 | Brother | bróda | hermano |
 | Sister | sísta | hermana |
 | Son | san | hijo |
@@ -617,5 +617,84 @@ La pregunta / respuesta sobre familiares usada en clase:
 
 
 ---
+
+
+## Day 10/26/2026 - Monday
+
+### Vocabulario
+
+| Inglés | Pronunciación UK | Traducción al castellano |
+|---|---|---|
+| short | shot | corto/a / bajo/a |
+| old | óuld | viejo/a / antiguo/a |
+| big | big | grande |
+| long | long | largo/a |
+| cheap | chíip | barato/a |
+| slow | slóu | lento/a |
+| expensive | ekspénsiv | caro/a |
+| new | niú | nuevo/a |
+| coat | cóut | abrigo / chaqueta |
+| dirty | dérti | sucio/a |
+| small | smol | pequeño/a |
+| fast | fast | rápido/a |
+| chair | chea | silla |
+| photo | fóutou | foto |
+| picture | píkcha | imagen / cuadro / foto |
+| frame | fréim | marco |
+| bag | bag | bolsa / bolso / maleta |
+| school bag | skúl bag | mochila escolar |
+| a piece of paper | a píis of péipa | un trozo de papel |
+| watch | uóch | reloj (de pulsera) |
+| clock | clok | reloj (de pared o mesa) |
+| newspaper | niúspeipa | periódico |
+| dictionary | díkshonari | diccionario |
+| dictionaries | díkshonaris | diccionarios |
+| camera | kámara | cámara (de fotos) |
+| a loaf of bread | a lóuf of bred | una barra de pan |
+| up to you | ap tu iú | tú decides / como quieras |
+| here | jía | aquí |
+| miss | mis | señorita / perder / echar de menos |
+| mister | místa | señor (Sr.) |
+| friendly | fréndli | amable / simpático/a |
+| really? | ríali? | ¿de verdad? / ¿en serio? |
+| work of | uérk of | obra de |
+| pet | pet | mascota |
+| family | fámili | familia |
+| kid | kid | niño/a / crío/a |
+
+
+### Posesivos.
+
+| Persona | Adjetivo posesivo | Pronunciación UK | Traducción |
+|---|---|---|---|
+| I (yo) | my | mái | mi |
+| you (tú) | your | yó | tu |
+| he (él) | his | jis | su (de él) |
+| she (ella) | her | jé | su (de ella) |
+| it (ello) | its | its | su (de ello) |
+| we (nosotros) | our | áua | nuestro/a |
+| you (vosotros/ustedes) | your | yó | vuestro/a / su |
+| they (ellos) | their | déa | su (de ellos) |
+
+
+- Siempre van antes del sustantivo: my car, their house.
+
+- its (sin apóstrofo) es posesivo; it's = it is.
+
+- your puede ser "tu" o "vuestro/su" según contexto.
+
+- Con las mascotas no usaremos el It.  Serás como personas, He, She y por tanto afecta al uso del posesivo empleando His, Her.
+
+
+| Adjetivo posesivo | Frase en inglés |
+|---|---|
+| my | My father is John. He is 55 years old. |
+| your | Your mother is Maria. She is 52 years old. |
+| his | His brother is David. He is 28 years old. |
+| her | Her sister is Laura. She is 24 years old. |
+| its | The dog has its own bed. It is 3 years old. |
+| our | Our grandfather is José. He is 80 years old. |
+| your | Your children are Emma and Alex. Emma is 10 and Alex is 7. |
+| their | Their grandmother is Carmen. She is 78 years old. |
 
 
