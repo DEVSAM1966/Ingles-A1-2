@@ -371,12 +371,12 @@ Se detalla las formas sin contraer y contraidas.
 | Inglés | Pronunciación | Inglés | Pronunciación |
 |---|---|---|---|
 | I am | ái am | I'm | áim |
-| You are | yu ar | You're | yór |
+| You are | iu ar | You're | yór |
 | He is | ji is | He's | jis |
 | She is | shi is | She's | shis |
 | It is | it is | It's | its |
 | We are | ui ar | We're | uír |
-| You are | yu ar | You're | yór |
+| You are | iu ar | You're | yór |
 | They are | dei ar | They're | déir |
 
 En inglés britanico la **R final es muy suave, casi no se pronuncia**.  Pero para un castellano parlante es útil escribirla para no olvidar que está ahí.
@@ -387,12 +387,12 @@ En inglés britanico la **R final es muy suave, casi no se pronuncia**.  Pero pa
 | Inglés | Pronunciación (UK) |
 |---|---|
 | Am I? | am ái? |
-| Are you? | ar yu? |
+| Are you? | ar iu? |
 | Is he? | is ji? |
 | Is she? | is shi? |
 | Is it? | is it? |
 | Are we? | ar ui? |
-| Are you? | ar yu? |
+| Are you? | ar iu? |
 | Are they? | ar dei? |
 
 
@@ -400,14 +400,14 @@ En inglés britanico la **R final es muy suave, casi no se pronuncia**.  Pero pa
 
 | Inglés | Pronunciación | Inglés | Pronunciación | Inglés | Pronunciación |
 |---|---|---|---|---|---|
-| I am not | ái am not | I'm not | áim not | — | — |
-| You are not | iu ar not | You're not | yór not | You aren't | yu árent |
-| He is not | ji is not | He's not | jis not | He isn't | ji ísent |
-| She is not | shi is not | She's not | shis not | She isn't | shi ísent |
-| It is not | it is not | It's not | its not | It isn't | it ísent |
-| We are not | ui ar not | We're not | uír not | We aren't | ui árent |
-| You are not | iu ar not | You're not | yór not | You aren't | yu árent |
-| They are not | dei ar not | They're not | déir not | They aren't | dei árent |
+| I am not | ái am nat | I'm not | áim nat | — | — |
+| You are not | iu ar nat | You're not | yór nat | You aren't | iu árent |
+| He is not | ji is nat | He's not | jis nat | He isn't | ji ísent |
+| She is not | shi is nat | She's not | shis nat | She isn't | shi ísent |
+| It is not | it is nat | It's not | its nat | It isn't | it ísent |
+| We are not | ui ar nat | We're not | uír nat | We aren't | ui árent |
+| You are not | iu ar nat | You're not | yór nat | You aren't | iu árent |
+| They are not | dei ar nat | They're not | déir nat | They aren't | dei árent |
 
 Nota
 
@@ -448,6 +448,118 @@ El sonido sh es el que hacemos al pedir silencio. La duda es si el sonido sh cor
 
 - **They’re able  →  dea(r) éi-bol**  (To be + vocal….  →  dea ó dear, pero el más realista sería **dea**)
 - **They’re happy  →  dea já-pi**  (to be + consonante….  →  dea)
+
+Nota:
+    HOME WORK.  →  Trabajo para casa.
+    No tiene la preposición TO en este caso.
+    
+
+
+
+---
+
+
+
+## Extra
+
+### Colocación del adjetivo
+
+En inglés los adjetivos van delante de los sustantivos, por ejemplo:
+
+a **CHINISE** pen	
+
+Two **BLUE** pens  →  Adjetivos sin plural, los sustantivos si tienen plural (si les toca).
+
+
+
+### Basic word order
+
+El inglés tiene un orden de palabras mucho más rígido que el español.  Esta estructura es la más habitual de este orden.
+
+   HE       PLAYS 	 THE GUITAR 	IN HIS ROOM 	  EVERY NIGHT
+ SUBJECT     VERB      OBJECT          PLACE            TIME      
+
+   Él        toca    la guitarra    en su habitación   cada noche
+
+| Nº | Inglés | Función | Traducción |
+|---|---|---|---|
+| 1 | He | Subject (Sujeto) | Él |
+| 2 | plays | Verb (Verbo) | toca |
+| 3 | the guitar | Object (Objeto) | la guitarra |
+| 4 | in his room | Place (Lugar) | en su habitación |
+| 5 | every night | Time (Tiempo) | todas las noches |
+
+
+
+#### Regla practica: ¿Dónde va cada elemento?
+
+1. **SUJETO**  →  Indica quién realiza la acción.
+
+I,   You,   He,   She,   It,   We,   They
+
+2. **VERBO**  →  Indica la acción o el estado.
+
+play,   eat,   work,   study,   live,   be
+
+3. **OBJETO**  →  Recibe la acción
+
+I read a book  →  a book  =  objeto
+
+4. **LUGAR**  →  Habitualmente se coloca después del objeto
+
+I work of developer in London  →  in London  =  lugar
+
+5. **TIEMPO**  →  Normalmente aparece al final de la frase.
+
+I work in London erevy day  →  every day  =  tiempo
+
+
+
+### Adverbios de frecuencia
+
+Los adverbios de frecuencia indican cada cuánto ocurre una acción.
+
+| Nº | Inglés | Pronunciación figurada (UK) | Traducción |
+|---|---|---|---|
+| 1 | Always | ól-weis | siempre |
+| 2 | Usually | yú-shua-li | normalmente |
+| 3 | Often | ó-fen | a menudo |
+| 4 | Sometimes | sám-taimz | algunas veces |
+| 5 | Rarely | réa-li | raramente |
+| 6 | Never | né-va | nunca |
+
+
+1. La posición de los adverbios de frecuencia con verbos normales es:
+
+**SUBJECT  +  ADVERB  +  VERB**
+
+- He often cooks pasta  →  Él cocina pasta a menudo
+- They never study  →  Ellos nunca estudian
+
+
+2. La posición de los adverbios de frecuencia con el verbo TO BE:
+
+**SUBJECT  +  TO BE  +  ADVERB**
+
+- You are always late  →  Siempre llegas tarde
+- She is usually happy  →  Ella normalmente está contenta
+- I am never tired  →  Nunca estoy cansado
+
+
+
+#### Preguntas con adverbios de frecuencia.
+
+Cuando hay auxiliar o inversión, el adverbio va después del sujeto.
+
+1. Con TO BE.     **VERBO TO BE  +  SUJETO  +  ADVERBIO**
+
+- Are you always late?  →  ¿Tú siempre llegas tarde?
+
+2. Con DO / DOES.    **DO / DOES  + SUJETO  +  ADVERBIO  +  VERBO**
+
+- Does he often cook?  →  ¿Él cocina a menudo?
+- Does he often play football?  →  ¿Él juega fultbol a menudo?
+
 
 ---
 

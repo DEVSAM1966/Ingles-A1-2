@@ -312,14 +312,14 @@ El 95% se emplea la forma débil.
 
 | To have sin contraer | Pronunciación (UK) | To have contraído | Pronunciación (UK) | Castellano |
 |---|---|---|---|---|
-| I do not have | ái du not jav | I don't have | ái dóint jav | yo no tengo |
-| You do not have | iu du not jav | You don't have | iu dóint jav | tú no tienes |
-| He does not have | ji dóos not jav | He doesn't have | ji dósent jav | él no tiene |
-| She does not have | shi dóos not jav | She doesn't have | shi dósent jav | ella no tiene |
-| It does not have | it dóos not jav | It doesn't have | it dósent jav | ello no tiene |
-| We do not have | ui du not jav | We don't have | ui dóint jav | nosotros no tenemos |
-| You do not have | iu du not jav | You don't have | iu dóint jav | vosotros no tenéis |
-| They do not have | dei du not jav | They don't have | dei dóint jav | ellos no tienen |
+| I do not have | ái du nat jav | I don't have | ái dóint jav | yo no tengo |
+| You do not have | iu du nat jav | You don't have | iu dóint jav | tú no tienes |
+| He does not have | ji dóos nat jav | He doesn't have | ji dósent jav | él no tiene |
+| She does not have | shi dóos nat jav | She doesn't have | shi dósent jav | ella no tiene |
+| It does not have | it dóos nat jav | It doesn't have | it dósent jav | ello no tiene |
+| We do not have | ui du nat jav | We don't have | ui dóint jav | nosotros no tenemos |
+| You do not have | iu du nat jav | You don't have | iu dóint jav | vosotros no tenéis |
+| They do not have | dei du nat jav | They don't have | dei dóint jav | ellos no tienen |
 
 
 ### Singular / Plural
