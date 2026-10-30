@@ -633,11 +633,14 @@ La pregunta / respuesta sobre familiares usada en clase:
 | slow | slóu | lento/a |
 | expensive | ekspénsiv | caro/a |
 | new | niú | nuevo/a |
-| coat | cóut | abrigo / chaqueta |
 | dirty | dérti | sucio/a |
 | small | smol | pequeño/a |
 | fast | fast | rápido/a |
+| hungry | jángri | hambriento |
+| angry | angri | enfadado, enojado |
+| enjoy | inlloi / inchoi | disfrutar, gozar de algo |
 | chair | chea | silla |
+| coat | cóut | abrigo / chaqueta |
 | photo | fóutou | foto |
 | picture | píkcha | imagen / cuadro / foto |
 | frame | fréim | marco |
@@ -661,6 +664,8 @@ La pregunta / respuesta sobre familiares usada en clase:
 | pet | pet | mascota |
 | family | fámili | familia |
 | kid | kid | niño/a / crío/a |
+
+- He enjoy = He like vrey much (es un equivalente a la palabra enjoy)
 
 
 ### Posesivos.
@@ -696,5 +701,75 @@ La pregunta / respuesta sobre familiares usada en clase:
 | our | Our grandfather is José. He is 80 years old. |
 | your | Your children are Emma and Alex. Emma is 10 and Alex is 7. |
 | their | Their grandmother is Carmen. She is 78 years old. |
+
+
+
+---
+
+
+## Day 10/28/2026 - Wednesday
+
+### Preguntas claves vistas hasta ahora.
+
+| Pregunta | Pronunciación figurada UK | Traducción |
+|----------|---------------------------|------------|
+| What is your name? | UOT is yo NEIM | ¿Cómo te llamas? |
+| Where are you from? | UER a yu FROM | ¿De dónde eres? |
+| What is your nationality? | UOT is yo na-sho-NAL-i-ti | ¿Cuál es tu nacionalidad? |
+| How are you? | JAU a yu | ¿Cómo estás? |
+| How old are you? | JAU OULD a yu | ¿Cuántos años tienes? |
+| Who is he / she? | JU is ji / shi | ¿Quién es él/ella? |
+| What is your job? | UOT is yo YOB | ¿Cuál es tu trabajo? |
+| Where do you live? | UER du yu LIV | ¿Dónde vives? |
+| What is your favourite city? | UOT is yo FEI-vo-rit SI-ti | ¿Cuál es tu ciudad favorita? |
+| Have you got a big family? | JAV yu GOT a BIG FA-mi-li | ¿Tienes una familia grande? |
+| How many brothers and sisters have you got? | JAU ME-ni BRO-thers and SIS-ters JAV yu GOT | ¿Cuántos hermanos tienes? |
+| Have you got a pet? | JAV yu GOT a PET | ¿Tienes mascota? |
+| What is your father's job? | UOT is yo FA-thers YOB | ¿Cuál es el trabajo de tu padre? |
+| Where is your family from? | UER is yo FA-mi-li FROM | ¿De dónde es tu familia? |
+| Who is your best friend? | JU is yo BEST FREND | ¿Quién es tu mejor amigo? |
+| What is your city like? | UOT is yo SI-ti LAIK | ¿Cómo es tu ciudad? |
+| How is your job? | JAU is yo YOB | ¿Cómo es tu trabajo? |
+| Have you got a job? | JAV yu GOT a YOB | ¿Tienes trabajo? |
+| Where is your best friend from? | UER is yo BEST FREND FROM | ¿De dónde es tu mejor amigo? |
+| What are your parents' names? | UOT a yo PE-rents NEIMS | ¿Cómo se llaman tus padres? |
+
+
+**Preguntas modelo empleado en el ejercicio 7A de la página 21.**
+
+| Tema | Pregunta |
+|------|----------|
+| Age | **How old is** he/she? |
+| Nationality | **What is/are** his/her/your **nationality/nationalities**? |
+| Nationality | **What nationality is** he/she? |
+| Nationality | **What nationality are** you? |
+| Country | **Where is/are** he/she/you/we/they **from**? |
+| Job | **What is/are** her/his/your/our/their **job/jobs**? |
+| City | **Where does/do** he/she/you/we/they **live**? |
+
+
+**📝 Ejemplos completos (pregunta → respuesta)**
+
+- How old is she? → She is 30 (years old).
+
+- What is his nationality? → His nationality is French. / He is French.
+
+- What nationality are you? → I am Spanish.
+
+- Where are they from? → They are from Italy.
+
+- What is your job? → My job is teacher. / I am a teacher.
+
+- What are their jobs? → Their jobs are teacher and doctor.
+
+- Where does he live? → He lives in London.
+
+- Where do you live? → I live in Madrid.
+
+
+---
+
+
+
 
 
