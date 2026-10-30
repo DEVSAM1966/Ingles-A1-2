@@ -714,23 +714,23 @@ La pregunta / respuesta sobre familiares usada en clase:
 | Pregunta | Pronunciación figurada UK | Traducción |
 |----------|---------------------------|------------|
 | What is your name? | UOT is yo NEIM | ¿Cómo te llamas? |
-| Where are you from? | UER a yu FROM | ¿De dónde eres? |
+| Where are you from? | UER a iu FROM | ¿De dónde eres? |
 | What is your nationality? | UOT is yo na-sho-NAL-i-ti | ¿Cuál es tu nacionalidad? |
-| How are you? | JAU a yu | ¿Cómo estás? |
-| How old are you? | JAU OULD a yu | ¿Cuántos años tienes? |
+| How are you? | JAU a iu | ¿Cómo estás? |
+| How old are you? | JAU OULD a iu | ¿Cuántos años tienes? |
 | Who is he / she? | JU is ji / shi | ¿Quién es él/ella? |
 | What is your job? | UOT is yo YOB | ¿Cuál es tu trabajo? |
-| Where do you live? | UER du yu LIV | ¿Dónde vives? |
+| Where do you live? | UER du iu LIV | ¿Dónde vives? |
 | What is your favourite city? | UOT is yo FEI-vo-rit SI-ti | ¿Cuál es tu ciudad favorita? |
-| Have you got a big family? | JAV yu GOT a BIG FA-mi-li | ¿Tienes una familia grande? |
-| How many brothers and sisters have you got? | JAU ME-ni BRO-thers and SIS-ters JAV yu GOT | ¿Cuántos hermanos tienes? |
-| Have you got a pet? | JAV yu GOT a PET | ¿Tienes mascota? |
+| Have you got a big family? | JAV iu GOT a BIG FA-mi-li | ¿Tienes una familia grande? |
+| How many brothers and sisters have you got? | JAU ME-ni BRO-thers and SIS-ters JAV iu GOT | ¿Cuántos hermanos tienes? |
+| Have you got a pet? | JAV iu GOT a PET | ¿Tienes mascota? |
 | What is your father's job? | UOT is yo FA-thers YOB | ¿Cuál es el trabajo de tu padre? |
 | Where is your family from? | UER is yo FA-mi-li FROM | ¿De dónde es tu familia? |
 | Who is your best friend? | JU is yo BEST FREND | ¿Quién es tu mejor amigo? |
 | What is your city like? | UOT is yo SI-ti LAIK | ¿Cómo es tu ciudad? |
 | How is your job? | JAU is yo YOB | ¿Cómo es tu trabajo? |
-| Have you got a job? | JAV yu GOT a YOB | ¿Tienes trabajo? |
+| Have you got a job? | JAV iu GOT a YOB | ¿Tienes trabajo? |
 | Where is your best friend from? | UER is yo BEST FREND FROM | ¿De dónde es tu mejor amigo? |
 | What are your parents' names? | UOT a yo PE-rents NEIMS | ¿Cómo se llaman tus padres? |
 
