@@ -400,14 +400,14 @@ En inglés britanico la **R final es muy suave, casi no se pronuncia**.  Pero pa
 
 | Inglés | Pronunciación | Inglés | Pronunciación | Inglés | Pronunciación |
 |---|---|---|---|---|---|
-| I am not | ái am nat | I'm not | áim nat | — | — |
-| You are not | iu ar nat | You're not | yór nat | You aren't | iu árent |
-| He is not | ji is nat | He's not | jis nat | He isn't | ji ísent |
-| She is not | shi is nat | She's not | shis nat | She isn't | shi ísent |
-| It is not | it is nat | It's not | its nat | It isn't | it ísent |
-| We are not | ui ar nat | We're not | uír nat | We aren't | ui árent |
-| You are not | iu ar nat | You're not | yór nat | You aren't | iu árent |
-| They are not | dei ar nat | They're not | déir nat | They aren't | dei árent |
+| I am not | ái am not | I'm not | áim nat | — | — |
+| You are not | iu ar not | You're not | yór not | You aren't | iu árent |
+| He is not | ji is not | He's not | jis not | He isn't | ji ísent |
+| She is not | shi is not | She's not | shis not | She isn't | shi ísent |
+| It is not | it is not | It's not | its not | It isn't | it ísent |
+| We are not | ui ar not | We're not | uír not | We aren't | ui árent |
+| You are not | iu ar not | You're not | yór not | You aren't | iu árent |
+| They are not | dei ar not | They're not | déir not | They aren't | dei árent |
 
 Nota
 
