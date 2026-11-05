@@ -119,16 +119,19 @@ La pronunciación, traducción y ejemplo de uso:
 | **Which** | **UÍCH** | Cuál / Cuáles (entre opciones limitadas) |
 | **Why** | **UÁI** | Por qué |
 
+
+La pronunciación es adaptada al habla normal con unión de palabras.
+
 | Inglés | Pronunciación figurada (UK) | Traducción |
 |---|---|---|
-| What is your name? | Uót is iór néim? | ¿Cuál es tu nombre? |
+| What is your name? | Uótis yo néim? | ¿Cuál es tu nombre? |
 | Who is he? | Júu is ji? | ¿Quién es él? |
-| Where are you from? | Uéa ar iu from? | ¿De dónde eres? |
-| When is the class? | Uén is de clás? | ¿Cuándo es la clase? |
-| How are you? | Jáu ar iu? | ¿Cómo estás? |
-| How old is she? | Jáu óuld is shi? | ¿Cuántos años tiene ella? |
-| How much is it? | Jáu mach is it? | ¿Cuánto cuesta? |
-| Which is your bag? | Uích is iór bag? | ¿Cuál es tu bolsa? |
+| Where are you from? | Uéa aa iu from? | ¿De dónde eres? |
+| When is the class? | Uénis de clás? | ¿Cuándo es la clase? |
+| How are you? | Jáu aa iu? | ¿Cómo estás? |
+| How old is she? | Jáu óldis shi? | ¿Cuántos años tiene ella? |
+| How much is it? | Jáu mach iset? | ¿Cuánto cuesta? |
+| Which is your bag? | Uíchis yo bag? | ¿Cuál es tu bolsa? |
 | Why are you happy? | uái aa iu jápi? | ¿Por qué estas feliz? |
 
 
