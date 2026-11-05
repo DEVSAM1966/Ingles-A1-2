@@ -1,4 +1,4 @@
-# APUNTES CLASES DE SEPTIEMBRE
+# APUNTES CLASES DE OCTUBRE
 
 ## Day 11/02/2026 - Monday
 
@@ -117,6 +117,7 @@ La pronunciación, traducción y ejemplo de uso:
 | **How old** | **JÁU ÓULD** | Cuántos años (edad) |
 | **How much** | **JÁU MACH** | Cuánto (singular / incontable) |
 | **Which** | **UÍCH** | Cuál / Cuáles (entre opciones limitadas) |
+| **Why** | **UÁI** | Por qué |
 
 | Inglés | Pronunciación figurada (UK) | Traducción |
 |---|---|---|
@@ -128,6 +129,7 @@ La pronunciación, traducción y ejemplo de uso:
 | How old is she? | Jáu óuld is shi? | ¿Cuántos años tiene ella? |
 | How much is it? | Jáu mach is it? | ¿Cuánto cuesta? |
 | Which is your bag? | Uích is iór bag? | ¿Cuál es tu bolsa? |
+| Why are you happy? | uái aa iu jápi? | ¿Por qué estas feliz? |
 
 
 **Nota sobre "Which" vs "What"**
@@ -135,6 +137,33 @@ La pronunciación, traducción y ejemplo de uso:
 - What:	**Opciones abiertas e ilimitadas.**	 What is your favourite colour? (¿Cuál es tu color favorito?)
 
 - Which: **Opciones limitadas o concretas.**  Which is your bag, the red or the blue one? (¿Cuál es tu bolsa, la roja o la azul?)
+
+
+### Vocabulario
+
+| Palabra / Expresión | Pronunciación figurada (UK) | Traducción |
+|---|---|---|
+| baker | béika | panadero/a |
+| birthday | bézdei | cumpleaños |
+| competition | compitíshon | competición / concurso |
+| judge | yóch | juez / juzgar |
+| presenter | prisénter | presentador/a |
+| manager | mánacha | gerente / director/a |
+| winner | uína | ganador/a |
+| best | best | mejor |
+| why | uái | por qué |
+| because | bicós | porque |
+| before | bifó | antes |
+| after | áfter | después |
+| clue | clú | pista |
+| amount | amaunt | cantidad |
+| manner | mana | manera |
+| make a cake | méik a kéik | hacer un pastel |
+| I don't know | ái dont nóu | no lo sé |
+| I have no idea | ái jav nóu aidía | no tengo ni idea |
+| I have no clue | ái jav nóu clú | no tengo ni idea / no tengo pista |
+
+
 
 ---
 
