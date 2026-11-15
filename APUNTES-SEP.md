@@ -476,10 +476,11 @@ Two **BLUE** pens  →  Adjetivos sin plural, los sustantivos si tienen plural (
 
 El inglés tiene un orden de palabras mucho más rígido que el español.  Esta estructura es la más habitual de este orden.
 
-   HE       PLAYS 	 THE GUITAR 	IN HIS ROOM 	  EVERY NIGHT
- SUBJECT     VERB      OBJECT          PLACE            TIME      
+| SUBJECT | VERB | OBJECT | PLACE | TIME |
+|---|---|---|---|---|
+| HE | PLAYS | THE GUITAR | IN HIS ROOM | EVERY NIGHT |
+| Él | toca | la guitarra | en su habitación | cada noche |
 
-   Él        toca    la guitarra    en su habitación   cada noche
 
 | Nº | Inglés | Función | Traducción |
 |---|---|---|---|
