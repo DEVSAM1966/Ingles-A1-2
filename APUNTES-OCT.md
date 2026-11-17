@@ -703,6 +703,46 @@ La pregunta / respuesta sobre familiares usada en clase:
 | their | Their grandmother is Carmen. She is 78 years old. |
 
 
+#### ATENCIÓN CON EL SONIDO DE LOS ADJETIVOS POSESIVOS
+
+Una de las cosas que deberemos de tener en cuenta en una correcta pronunciación de los adjetivos posesivos en inglés.
+
+- Los adjetivos posesivos presenta una **forma enfatizada** (empleada para remarcar la posesión y cuando se habla muy despacio) o **fuerte**.
+
+- Existe la forma débil, es un **adjetivo posesivo átono** (va antes del sustantivo y no enfatiza).
+
+- Veamos el siguiente recuadro para ver las diferencias de sonido.
+
+| Adjetivo posesivo | Forma fuerte (énfasis) | Ejemplo con énfasis | Forma débil (átona, habla rápida) | Ejemplo en habla rápida |
+|---|---|---|---|---|
+| my | mái | It's **my** car, not yours. → "its **mái** cá" | ma / mə | my car → "ma cá" |
+| your | yó | It's **your** fault. → "its **yó** folt" | ya / yə | your car → "ya cá" |
+| his | jis | It's **his** car. → "its **jis** cá" | iz / ɪz | his car → "iz cá" |
+| her | jé | It's **her** car. → "its **jé** cá" | a / ə | her car → "a cá" |
+| its | its | The dog has **its** bed. → "de dog jas **its** bed" | its (casi igual, pero muy rápido) | its bed → "its bed" (sin cambio notable) |
+| our | áua | It's **our** house. → "its **áua** jáus" | ar / ɑː | our house → "ar jáus" |
+| your (plural) | yó | It's **your** house. → "its **yó** jáus" | ya / yə | your house → "ya jáus" |
+| their | déa | It's **their** house. → "its **déa** jáus" | de / ðə | their house → "de jáus" |
+
+
+**Notas clave:**
+
+- my → "mái" (fuerte) vs. "ma" (débil, casi como "mə").
+
+- your → "yó" (fuerte) vs. "ya" (débil, casi "yə").
+
+- his → "jis" (fuerte) vs. "iz" (débil; la "h" desaparece y la "s" suena como "z" suave).
+
+- her → "jé" (fuerte) vs. "a" (débil; la "h" desaparece por completo).
+
+- its → apenas cambia, pero se pronuncia muy rápido y pegado al sustantivo.
+
+- our → "áua" (fuerte) vs. "ar" (débil; suena como una "a" larga con "r" suave).
+
+- their → "déa" (fuerte) vs. "de" (débil; la "th" suave se relaja y la vocal casi desaparece).
+
+**Regla general:** Cuanto más rápido y menos enfático es el habla, más se reducen estos adjetivos a una vocal relajada **(schwa /ə/) o desaparece la "h" inicial.**
+
 
 ---
 
