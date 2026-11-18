@@ -214,7 +214,7 @@ La pronunciación es adaptada al habla normal con unión de palabras.
 | brown | bráun | marrón |
 | orange | órinch | naranja |
 | pink | pink | rosa |
-| purple | pépl | morado |
+| purple | pépal | morado |
 | navy | néivi | azul marino |
 | light blue | láit blu | azul claro |
 | dark blue | dak blu | azul oscuro |
@@ -225,7 +225,7 @@ La pronunciación es adaptada al habla normal con unión de palabras.
 
 - orange → "órinch" (la "a" final suena como "i" breve + "ch" suave).
 
-- purple → "pépl" (la "r" casi no se pronuncia; "u" breve).
+- purple → "pépal" (la "r" casi no se pronuncia; "u" breve).
 
 - Para matices, puedes combinar: light (claro) y dark (oscuro) con cualquier color.
 
