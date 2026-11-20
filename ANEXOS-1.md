@@ -4,6 +4,13 @@ Guia de trucos para mejorar la gramatica y pronunciacion en ingles.
 
 ## THIS, THAT, THESE, THOSE
 
+| Demostrativo | Pronunciación figurada (UK) | Traducción | Uso |
+|---|---|---|---|
+| this | dis | este / esta / esto | Singular, cerca del hablante |
+| that | dat | ese / esa / eso / aquel / aquella | Singular, lejos del hablante |
+| these | diz | estos / estas | Plural, cerca del hablante |
+| those | dóuz | esos / esas / aquellos / aquellas | Plural, lejos del hablante |
+
 - **THIS:**  Se pronuncia → DIS.  Se usa para hablar de una cosa (singular) que esta cerca de ti.
 
 This is my phone.  Este es mi telefono.
@@ -12,11 +19,11 @@ This is my phone.  Este es mi telefono.
 
 That is your car.  Ese es tu auto.
 
-- **THESE:**  Suena como → DIIS.  Cuando varias cosas estan cerca de mi.
+- **THESE:**  Suena como → DIIZ.  Cuando varias cosas estan cerca de mi.
 
 These are my keys.  Estas son mis llaves.
 
-- **THOSE:**  El sonido es → DOUS.  Cuando varias cosas estan lejos de mi.
+- **THOSE:**  El sonido es → DOUZ.  Cuando varias cosas estan lejos de mi.
 
 Those are your shoes.  Esos son tus zapatos.
 
@@ -42,7 +49,7 @@ Do (hacer) → **un**do (deshacer)
 
 Think (pensar) → **over**think (pensar demasiado)
 
-Work (trabajar) → **over**work
+Work (trabajar) → **over**work (trabajar demasiado)
 
 4. **RE** → Verbo + otra vez
 
