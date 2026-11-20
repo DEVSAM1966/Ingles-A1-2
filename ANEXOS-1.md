@@ -61,6 +61,51 @@ Start (iniciar) → **re**start (reiniciar)
 ---
 
 
+## Presente continuo (Present Continuous)
+
+Uso principal: acción que está ocurriendo **ahora mismo o alrededor de este momento.**
+
+**Fórmula:**
+**Sujeto + am / is / are + verbo-ing**
+
+- I am studying → "ái am stá-din" (Estoy estudiando)
+- She is working → "shí is uér-kin" (Ella está trabajando)
+- They are playing → "déi ar pléi-in" (Ellos están jugando)
+
+
+**Reglas del -ing:**
+
+| Regla | Ejemplo |
+|---|---|
+| Verbo normal + ing | work → working |
+| Verbo acabado en -e  →  se quita la -e | make → making |
+| Verbo corto CVC → se dobla la consonante | run → running |
+| Verbo acabado en -ie → cambia a -y | lie → lying |
+
+
+**Negativa:**
+**Sujeto + am/is/are + not + verbo-ing**
+
+- I am not working → "ái am not uér-kin" (No estoy trabajando)
+
+- She isn't studying → "shí í-zent stá-din" (Ella no está estudiando)
+
+
+**Interrogativa:**
+**Am/Is/Are + sujeto + verbo-ing?**
+
+- Are you listening? → "ar iú lí-sen-in?" (¿Estás escuchando?)
+
+- Is he cooking? → "is jí cú-kin?" (¿Está él cocinando?)
+
+**Palabras clave:** now (ahora), right now (ahora mismo), at the moment (en este momento), today (hoy), these days (estos días).
+
+**ATENCION:** No se usa con verbos de estado (like, want, know, need, believe...). Para esos se usa el presente simple.
+
+
+---
+
+
 ## Los 18 conectores esenciales del ingles
 
 | Conector | Pronunciación figurada (UK) | Traducción |
