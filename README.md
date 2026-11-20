@@ -12,6 +12,8 @@ En este repositorio se recogera todo el matrial de estudio para el estudio de in
 
 
 ### 1. Curso EOI Inglés A1
+- [Anexo I](ANEXOS-1.md)
+
 - [Apuntes de Septiembre 2026](APUNTES-SEP.md)
 - [Apuntes de Octubre 2026](APUNTES-OCT.md)
 - [Apuntes de Noviembre 2026](APUNTES-NOV.md)
