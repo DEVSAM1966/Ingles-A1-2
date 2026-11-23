@@ -563,8 +563,8 @@ Is it big?  →  Yes, it is big (por ejemplo)
 | Family English | Pronunciación UK | Traducción |
 |---|---|---|
 | Father (dad) | fáda (dad) | padre (papá) |
-| Mother (mum) | móda (mam) | madre (mamá) |
-| Parents | péerents | padres |
+| Mother (mum) | máda (mam) | madre (mamá) |
+| Parents | pérents | padres |
 | Brother | bróda | hermano |
 | Sister | sísta | hermana |
 | Son | san | hijo |
@@ -577,22 +577,24 @@ Is it big?  →  Yes, it is big (por ejemplo)
 | Uncle | ánkel | tío |
 | Aunt | ant | tía |
 | Grandfather | grándfada | abuelo |
-| Grandmother | grándmoda | abuela |
-| Grandparents | grándpearents | abuelos |
+| Grandmother | grándmada | abuela |
+| Grandparents | grándperents | abuelos |
 | Cousin | cásen | primo/a |
 | Grandson | grárdson | nieto |
 | Granddaughter | grárddota | nieta |
 | Grandchildren | grárdchildren | nietos |
 | Stepfather | stépfada | padrastro |
-| Stepmother | stépmoda | madrastra |
+| Stepmother | stépmada | madrastra |
 | Stepson | stépson | hijastro |
 | Stepdaughter | stépdota | hijastra |
-| Father-in-law | fádarinlo | suegro |
-| Mother-in-law | módarinlo | suegra |
-| Brother-in-law | bródarinlo | cuñado |
-| Sister-in-law | sístarinlo | cuñada |
+| Father-in-law | fá-da-rin-lo / fá-dain-lo | suegro |
+| Mother-in-law | má-da-rin-lo / má-dain-lo | suegra |
+| Brother-in-law | bró-da-rin-lo / bró-dain-lo | cuñado |
+| Sister-in-law | sís-ta-rin-lo / sís-tain-lo | cuñada |
 | Relative | rélativ | pariente |
 | Siblings | síblings | hermanos (de sangre) |
+
+**Nota:** Atención con Father-in-law, Mother-in-law, Brother-in-law, Sister-in-law en la pronunciación.  La primera es cuando se habla lento y remarcamos la R y la segunda es la que aparece en una conversación rápida donde se elimina la pronunciación de la R.
 
 
 Ejemplo de tipo de preguntas y respuesta:

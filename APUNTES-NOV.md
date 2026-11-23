@@ -150,8 +150,8 @@ La pronunciación es adaptada al habla normal con unión de palabras.
 | birthday | bézdei | cumpleaños |
 | competition | compitíshon | competición / concurso |
 | judge | yóch | juez / juzgar |
-| presenter | prisénter | presentador/a |
-| manager | mánacha | gerente / director/a |
+| presenter | prizénta | presentador/a |
+| manager | mánicha / mánacha | gerente / director/a |
 | winner | uína | ganador/a |
 | best | best | mejor |
 | why | uái | por qué |
@@ -376,7 +376,7 @@ Cuando el poseedor ya es un pronombre posesivo (my, your, his, her, our, their),
 | the car of Juan | Juan's car | Personas → 's |
 | the Juan's car | Juan's car | No se usa artículo antes del poseedor |
 | Juan's the car | Juan's car | El artículo no va después del 's |
-| the red Juan's car | Juan's red car | El 's va pegado al poseedor, no al adjetivo |
+| the red Juan's car | Juan's red car | El adjetivo va entre el poseedor y el objeto |
 | my's mother house | my mother's house | Con posesivos no se añade 's al pronombre |
 
 
