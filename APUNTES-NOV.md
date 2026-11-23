@@ -511,3 +511,34 @@ En inglés hablado, "is" (verbo to be, 3ª persona singular) y "'s" (genitivo sa
 
 ---
 
+
+## Day 11/23/2026 - Monday
+
+### Uso del AND, BUT
+
+Usaremos como unión de frases (link) `AND` o `BUT` usando la siguiente regla:
+
+| 1ª frase | 2ª frase | LINK |
+|---|---|---|
+| positive | positive | and |
+| negative | negative | and (si se esta de acuerdo con ambas negaciones)|
+| positive | negative | but |
+| negative | positive | but |
+| negative | negative | but (son un contraste, una niega a la otra)|
+| positive | positive | bit (aunque son positivas, si hay contraste se usa but) |
+
+- Si las dos ideas "suman" o son iguales (positivas o negativas), usas and (y).
+
+- Si las dos ideas "chocan" o contrastan (una positiva y otra negativa), usas but (pero).
+
+
+**Ejemplo:**
+- My favourite chair isn't beautiful, **but** I love it.
+- My favourite colour is red **and** my favourite day is Monday.
+- We have five dogs **and** three cats.
+- English is great, **but** it's difficult.
+
+Observar el contraste de ideas y el uso de and y but:
+- I'm from Mexico (positivo), **but** now I'm in Colombia (positivo/contraste).
+- I don't like coffee (negativo) **and** I don't like tea (negativo). ->  (No me gusta ni el café ni el té).
+- I don't like coffee (negativo) **but** I love tea (positivo/contraste). -> (No me gusta el café, pero me encanta el té)
