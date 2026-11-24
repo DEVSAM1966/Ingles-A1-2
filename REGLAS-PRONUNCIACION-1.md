@@ -429,25 +429,78 @@ UP segun que palabra le antecede tiene diversos significados.
 
 Las vocales en inglés  pueden ser largas y cortas.  Veamos como es:
 
-• A (largo) → EI
+- **A (largo) → EI**
+MAKE (me-ik)
 
-    A (corto) → A | APPLE (AP-POL)
+- **A (corto) → A** 
+APPLE (ap-pol)
 
-• I (largo) → AI | DINER (DAINER)
+- **I (largo) → AI** 
+DINER (dái-na)
 
-    I (corto) → I | DINNER (DINER) → Le sigue después de la 'I' doble consonante 'NN'
+- **I (corto) → I**  
+DINNER (dí-na) → La `i` esta encerrada entre consonantes y hace que sea una `i corta` (sílaba cerrada).
+THIS (dis) → Esta encerrada entre consonantes la `i` (sílaba cerrada).
 
-• E (largo) → II | THESE (DIIS)
+- **E (largo) → II** 
+THESE (díis) → la `z` es vibrada
 
-    E (corto) → E | EGG (EG) → Le sigue después de la 'E' doble consonante 'GG'
+- **E (corto) → E** 
+EGG (eg) → Le sigue después de la 'e' doble consonante 'GG'
 
-• O (largo) → OU | NOTE (NOUT)
+- **O (largo) → OU** 
+NOTE (nout)
 
-    O (corto) → A | OPPORTUNITY (APORTUNITY) → Le sigue después de la 'O' doble consonante 'PP'
+- **O (corto) → O** 
+BOSS (bos) → La `o` esta encerrada entre consonantes (sílaba cerrada).
+DOG (dog)
 
-• U (largo) → IU | CUTE (CIUT)
+Un ejemplo de dos tipos de sonidos de la `O`:
 
-    U (corto) → A | MUTT (MAT) → Le sigue después de la 'U' doble consonante 'TT'
+OPPORTUNITY (**a**-p**o**r-tiú-ni-ti) → La primera `o` suena como `a relajada` y la segunda `o` su sonido corresponte a una `o corta`.
+
+- **U (largo) → IU** 
+CUTE (ciut)
+
+- **U (corto) → A** 
+MUTT (mat) → La 'U' esta encerrada entre consonantes (sílaba cerrada).
+BUS (bas)
+
+
+** (sílaba cerrada)**
+
+Es cuando una vocal está "encerrada" o "atrapada" entre consonantes, y la sílaba termina en una consonante (no hay una vocal después).
+
+Cuando esto pasa, **la vocal suena corta** (su sonido breve y relajado).
+
+
+Ejemplos visuales:
+
+- C**a**t → La "a" está entre C y T. Termina en consonante. → Suena corta: "cat".
+
+- D**i**nner → La "i" está entre D y N. Termina en consonante (R). → Suena corta: "dí-na".
+
+- B**o**ss → La "o" está entre B y S. Termina en consonante. → Suena corta: "bos".
+
+- B**u**s → La "u" está entre B y S. Termina en consonante. → Suena corta: "bas".
+
+
+**¿Qué pasa si NO está cerrada (sílaba abierta)?**
+
+Si la sílaba termina en vocal, o tiene una "E muda" al final que la deja "abierta", **la vocal suena larga (como su nombre en el abecedario)**.
+
+- M**a**ke → Termina en E muda (la E no suena, pero deja la sílaba abierta). → Suena larga: "meik".
+
+- G**o** → Termina en vocal. → Suena larga: "gou".
+
+- C**u**te → Termina en E muda. → Suena larga: "ciut".
+
+
+**Regla de oro**
+
+- **Sílaba cerrada** (termina en consonante) → Vocal corta.
+
+- **Sílaba abierta** (termina en vocal o E muda) → Vocal larga.
 
 
 ---

@@ -14,7 +14,9 @@ En este repositorio se recogera todo el matrial de estudio para el estudio de in
 ### 1. Curso EOI Inglés A1
 - [Anexo I](ANEXOS-1.md)
 
-- [Pronunciación I](REGLAS-PRONUNCIACION-1.md)
+- [Pronunciación I - vocales](REGLAS-PRONUNCIACION-1.md)
+- [Pronunciación II - consonantes](REGLAS-PRONUNCIACION-2.md)
+
 
 - [Apuntes de Septiembre 2026](APUNTES-SEP.md)
 - [Apuntes de Octubre 2026](APUNTES-OCT.md)
