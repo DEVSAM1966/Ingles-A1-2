@@ -467,11 +467,13 @@ MUTT (mat) → La 'U' esta encerrada entre consonantes (sílaba cerrada).
 BUS (bas)
 
 
-** (sílaba cerrada)**
+
+**Sílaba cerrada**
 
 Es cuando una vocal está "encerrada" o "atrapada" entre consonantes, y la sílaba termina en una consonante (no hay una vocal después).
 
 Cuando esto pasa, **la vocal suena corta** (su sonido breve y relajado).
+
 
 
 Ejemplos visuales:
@@ -485,6 +487,7 @@ Ejemplos visuales:
 - B**u**s → La "u" está entre B y S. Termina en consonante. → Suena corta: "bas".
 
 
+
 **¿Qué pasa si NO está cerrada (sílaba abierta)?**
 
 Si la sílaba termina en vocal, o tiene una "E muda" al final que la deja "abierta", **la vocal suena larga (como su nombre en el abecedario)**.
@@ -494,6 +497,7 @@ Si la sílaba termina en vocal, o tiene una "E muda" al final que la deja "abier
 - G**o** → Termina en vocal. → Suena larga: "gou".
 
 - C**u**te → Termina en E muda. → Suena larga: "ciut".
+
 
 
 **Regla de oro**
