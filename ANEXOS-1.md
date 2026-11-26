@@ -207,3 +207,135 @@ Perhaps (quizás) suele ir al principio de la frase para expresar duda. Clearly 
 
 ---
 
+
+## 20 bloques con preposiciones adaptados a mis redacciones
+
+Las preposiciones son lo más difícil del inglés para casi todos los hispanohablantesy cada idioma "reparte" el espacio y las relaciones de forma distinta. 
+
+**Regla de oro:** Las preposiciones no se traducen: se memorizan en frases hechas.
+
+
+### 🍽️ Comidas y rutina diaria - Meals & Daily Routine
+
+| ❌ Típico error | ✅ Correct block |
+|---|---|
+| in breakfast | **for breakfast** |
+| in lunch | **for lunch** |
+| in dinner | **for dinner** |
+| at the morning | **in the morning** |
+| at the afternoon | **in the afternoon** |
+| at the evening | **in the evening** |
+| at night | **at night** ✅ |
+| at 8 a.m. | **at 8 a.m.** ✅ |
+
+**Examples:**
+- *For breakfast I eat bread with butter.*
+- *In the morning I wake up at eight a.m.*
+- *For breakfast I eat bread with butter. In the morning I wake up at eight a.m.*
+
+
+### 🚲 Transporte y movimiento - Transport & Movement
+
+| ❌ Típico error | ✅ Correct block |
+|---|---|
+| in bike | **by bike** |
+| in car | **by car** |
+| in bus | **by bus** |
+| arrive to house | **arrive home** |
+| go to home | **go home** (no *to*) |
+| sit down table | **sit down at table** |
+| walk to home | **walk home** |
+
+**Examples:**
+- *I go to the market by bike.*
+- *We walk home at one p.m.* 
+- *I go to the market by bike. We walk home at one p.m.*
+
+
+### 🛒 Mercado y compras - Market & Shopping
+
+| ❌ Típico error | ✅ Correct block |
+|---|---|
+| buy fish in the market | **buy fish at the market** |
+| delete dishes one table | **delete dishes from a table** |
+| add foods in the menu | **add foods to the menu** |
+| the fish for dinner | **the fish for dinner** ✅ (*for* = para) |
+
+**Examples:**
+- *We buy fish at the market.*
+- *The fish is for dinner.*
+- *We buy fish at the market. The fish is for dinner.*
+
+
+### 💻 Proyecto técnico (restaurante/API) - Technical Project (Restaurant/API)
+
+| ❌ Típico error | ✅ Correct block |
+|---|---|
+| in the menu | **on the menu** |
+| for to do | **to do / to make** |
+| implement in Spring Boot | **implement using Spring Boot** |
+| save in the database | **save to the database** |
+| charge to customers | **charge customers** (no *to*) |
+| a list for days | **a list of days** |
+
+**Examples:**
+- *The dishes on the menu are saved to the database.*
+- *The application charges customers for their orders.* 
+- *The dishes on the menu are saved to the database. The application charges customers for their orders.*
+
+
+### 🗓️ Tiempo y fechas - Time & Dates
+
+| ❌ Típico error | ✅ Correct block |
+|---|---|
+| in Monday | **on Monday** |
+| in July | **in July** |
+| in 2026 | **in 2026** |
+| at the weekend | **at the weekend** ✅ (UK) / **on the weekend** (US) |
+| for a range of days | **over a range of days** |
+
+**Examples:**
+- *On Monday I have many projects to do.*
+- *At the weekend I go by bike.* 
+- *On Monday I have many projects to do. At the weekend I go by bike.*
+
+
+
+### 🧠 Cómo estudiarlos (plan de 7 días)
+
+1. **Day 1–2:** Read aloud the meals & routine table (8 blocks).
+2. **Day 3:** Transport & movement (7 blocks).
+3. **Day 4:** Market & shopping (4 blocks).
+4. **Day 5:** Technical project (6 blocks).
+5. **Day 6:** Time & dates (5 blocks).
+6. **Day 7:** General review + write 5 sentences using 5 different blocks.
+
+**Tip:** Don't memorize the whole table at once. **Choose 3 blocks per day**, write one sentence with each, and say them aloud.
+
+**Truco:** no memorizar la tabla entera de golpe. Eligir 3 bloques al día, escribir una frase con cada uno y decirlas en voz alta.
+
+**Ejercicio:**
+Complete with the correct preposition:
+
+1. ___ breakfast I drink coffee with milk.
+2. We go to the market ___ bike.
+3. The fish is ___ the menu.
+4. We arrive ___ home at one p.m.
+5. I have many projects ___ do.
+6. The application saves the orders ___ the database.
+7. ___ Monday is my favourite day.
+8. I wake up ___ eight a.m.
+
+
+<details> <summary>Soluciones</summary>
+
+1. For breakfast
+2. by bike
+3. on the menu
+4. arrive home (sin preposición)
+5. to do
+6. to the database
+7. On Monday
+8. at eight a.m.
+
+</details>
